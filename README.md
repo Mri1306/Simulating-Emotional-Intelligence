@@ -54,19 +54,5 @@ Structured interview data flattened into JSON prompts with embedded behavioral c
 - **Path 1 (Fine-Tuned Generation)**: Directly conditions LLaMA model on behavioral prompts.  
 - **Path 2 (RAG-Enhanced Generation)**: Augments user query with retrieved exemplars for context-sensitive responses.  
 
-## 📊 Results
-
-### Performance Comparison
-| Metric | RAG Model | Non-RAG Model |
-|--------|-----------|---------------|
-| Emotional Accuracy | 38.2% | 39.9% |
-| BERTScore F1 | 0.827 | 1.000 |
-| Cosine Similarity | 0.443 | 1.000 |
-| Pearson Correlation | 0.152 (p=0.004) | 0.372 (p=0.000) |
-| MSE | **0.091** | 15.78 |
-| Perplexity | 5.55 | 4.38 |
-
-- **RAG** produced **more diverse and human-like emotional responses**, even though raw accuracy was slightly lower.  
-- **Non-RAG** showed higher textual similarity but risked overfitting and reduced variability.  
 
 
