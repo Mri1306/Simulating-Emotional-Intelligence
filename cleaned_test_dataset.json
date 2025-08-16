@@ -1,0 +1,1414 @@
+[
+  {
+    "input": "Q: What's one decision you've made that was heavily influenced by emotions, but on the other hand, you're glad you trusted your feelings?\nTone: analytical\nResponse Time: Moderate (2-3 seconds)\nBody Language: hand gestures, looking down\nEmotion: neutral\nA:",
+    "output": "I can't think of any specific decision that was heavily influenced by emotions right now."
+  },
+  {
+    "input": "Q: If you are about to give a very important presentation and anxiety starts overwhelming you, how do you manage emotions in that moment?\nTone: direct\nResponse Time: Fast (1-2 seconds)\nBody Language: hand gestures, eye contact, head movement, rubs hand\nEmotion: fear & anxiety\nA:",
+    "output": "Before an important presentation, I imagine the room is empty and that I'm talking just to myself it helps keep anxiety in check and boosts my confidence."
+  },
+  {
+    "input": "Q: How do you adjust your non-verbal cues (e.g., body language, facial expressions) to make others feel more comfortable?\nTone: direct, matter of fact \nResponse Time: Moderate (3-4 seconds)\nBody Language: head movement, thinking \nEmotion: happiness and joy\nA:",
+    "output": "I adjust my non-verbal cues directly by keeping steady eye contact and sitting close, tilting my head as I focus. Matter-of-factly, I show I'm attentive with a relaxed posture to put others at ease."
+  },
+  {
+    "input": "Q: How do you typically cope with feelings of loneliness?\nTone: thoughtful, situational awareness, positive\nResponse Time: Fast (1-2 seconds)\nBody Language: smiles, hand gesture, move head\nEmotion: happiness and joy\nA:",
+    "output": "When I feel lonely, I typically cope by watching movies, especially comedy ones that lift my mood. For example, when I first moved here and left my family, I felt very lonely, so I'd watch those movies. I also talk to my family, which helps me feel connected and reminds me everything is still okay."
+  },
+  {
+    "input": "Q: How do you decide whether to share your stress with others or keep it to yourself?\nTone: private\nResponse Time: Fast (1-2 seconds)\nBody Language: closed posture\nEmotion: fear & anxiety\nA:",
+    "output": "Most of the time I keep it to myself. I don't like burdening others unless I absolutely need to talk."
+  },
+  {
+    "input": "Q: How do you handle situations where you want to forgive but find it difficult?\nTone: matter-of-fact, situational awareness\nResponse Time: Fast (1-2 seconds)\nBody Language: looking down, hand at chin\nEmotion: emotional growth and self reflection\nA:",
+    "output": "When I want to forgive but find it difficult, I follow the principle of staying silent if I can't say something positive. I pause the conversation, step away to cool off, and revisit it with a clearer mind."
+  },
+  {
+    "input": "Q: How do you typically cope with feelings of loneliness?\nTone: positive, reflective \nResponse Time: Moderate(3-4 seconds) \nBody Language: hand gestures, body to and fro body movements, hand shakes \nEmotion: emotional growth and self reflection\nA:",
+    "output": "I cope with loneliness positively by reflecting while swaying, often playing games or taking solo walks. These moments recharge me, helping me embrace my own company with a sense of calm."
+  },
+  {
+    "input": "Q: You achieve something great, but those around you don't seem to acknowledge it. How does this affect your happiness, and how do you handle it?\nTone: direct\nResponse Time: Moderate (4-5 seconds)\nBody Language: hand gestures, looks at interviewer\nEmotion: happiness and joy\nA:",
+    "output": "If others don't acknowledge my success, I don't let it ruin my joy. If it mattered to me, that's enough validation."
+  },
+  {
+    "input": "Q: How do you decide whether to share stress with others or keep it to yourself?\nTone: honest, explanatory\nResponse Time: Moderate(3-4 seconds)\nBody Language: hand gestures, looks down\nEmotion: emotional growth and self reflection\nA:",
+    "output": "When deciding whether to share my stress or keep it to myself, I consider how personal the stress is. Stress affects everyone differently, so I only open up when I feel it will truly help or when someone I trust is involved."
+  },
+  {
+    "input": "Q: What makes you feel most loved and appreciated in a relationship?\nTone: thoughtful, clear\nResponse Time: Moderate (2-3 Seconds)\nBody Language: eye contact\nEmotion: love & affection\nA:",
+    "output": "I feel most loved when someone accepts me as I am completely, without asking me to shrink or shift. True appreciation, for me, is when someone embraces all parts of who I am and still chooses to stay."
+  },
+  {
+    "input": "Q: Have you ever struggled with letting go of a past hurt? How did you manage it?\nTone: positive, calm\nResponse Time: Slow (5-6 seconds)\nBody Language: look down, touching face, looks away\nEmotion: sadness and grief\nA:",
+    "output": "I've struggled with letting go of past hurts, but I manage it by staying busy and trying to forget. Keeping my mind occupied with positive things helps me move on without dwelling too long."
+  },
+  {
+    "input": "Q: You are surrounded by highly accomplished individuals, and you start feeling inadequate. How do you shift your mindset to regain confidence?\nTone: repeats question, solution-focused\nResponse Time: Fast (1-2 seconds)\nBody Language: leaning forward, mirroring others' posture\nEmotion: confidence and self belief\nA:",
+    "output": "If I feel inadequate around accomplished people, I focus on my own growth path rather than comparing. Their success can inspire rather than intimidate me."
+  },
+  {
+    "input": "Q: You achieve something great, but those around you don't seem to acknowledge it. How does this affect your happiness, and how do you handle it?\nTone: straight forward, explanatory\nResponse Time: Fast (1-2 seconds)\nBody Language: looks up, eye contact, hand gestures\nEmotion: happiness and joy\nA:",
+    "output": "When I achieve something great and others don't acknowledge it, my happiness isn't affected much. I focus on my friends and family, who always celebrate with me, and I don't care about others' opinions."
+  },
+  {
+    "input": "Q: How do you cope with feelings of guilt when you feel you have wronged someone?\nTone: direct\nResponse Time: Fast (1-2 seconds)\nBody Language: nods\nEmotion: guilt and regret\nA:",
+    "output": "I cope with guilt by admitting my mistake to the person I've wronged and taking steps to make amends. This helps me resolve the situation and move forward."
+  },
+  {
+    "input": "Q: What's the lesson you have learned from a past mistake that changed you?\nTone: minimal\nResponse Time: Fast (1-2 seconds)\nBody Language: shrug\nEmotion: emotional growth and self reflection\nA:",
+    "output": "I don't think I've learned a clear lesson from any mistake yet-but maybe that in itself is something to think about."
+  },
+  {
+    "input": "Q: How do you handle situations where you want to forgive someone, but find it difficult?\nTone: truthful, sad\nResponse Time: Moderate (3-4 seconds)\nBody Language: hand gestures, squirting eyes\nEmotion: emotional growth and self reflection",
+    "output": "When I want to forgive but find it hard, it's usually because I'm exhausted from giving endless chances. At some point, I just can't keep explaining, and that's when I give up."
+  },
+  {
+    "input": "Q: You're in a situation where multiple things are going wrong at once. How do you prioritize managing your emotions while solving the issues at hand?\nTone: logical tone, confident\nResponse Time: Fast (1-2 seconds)\nBody Language: hands held against together, answers looking at interviewer, hand gestures, shakes legs slightly, body to and fro movement , head movements while explaining things\nEmotion: happiness and joy\nA:",
+    "output": "When everything feels like it's going wrong, I start with the easiest tasks first to gain momentum and reduce the stress little by little."
+  },
+  {
+    "input": "Q: What role do gestures and facial expressions play in how you interpret someone's emotions during a conversation?\nTone: straightforward, direct \nResponse Time: Moderate (3-4 seconds) \nBody Language: looks up, eye contact, head movements \nEmotion: happiness and joy\nA:",
+    "output": "Gestures and facial expressions are key to reading emotions directly, tilting my head as I connect with eye contact. They're crucial, but I'm careful since misreading them can escalate things the wrong way."
+  },
+  {
+    "input": "Q: How do you decide whether to share your stress with others or keep it to yourself?\nTone: direct, high voice\nResponse Time: Fast (1-2 seconds)\nBody Language: hand gestures, touches neck\nEmotion: anger & frustration\nA:",
+    "output": "When deciding whether to share stress, I usually end up venting. I can't bottle it for long â€“ eventually it comes out, even if I think I shouldn't share."
+  },
+  {
+    "input": "Q: A close friend is struggling but doesn't want to talk about it. How do you support them emotionally without pushing too hard?\nTone: patient, supportive\nResponse Time: Moderate (3-4 seconds)\nBody Language: deep thinking, hand gestures, blinking, head/leg shakes\nEmotion: love & affection\nA:",
+    "output": "If a close friend is struggling but doesn't want to talk, I do things they enjoy and wait until they're ready to open up. I'm there for them when they are."
+  },
+  {
+    "input": "Q: When making a difficult decision, how do you separate emotional impulse from your original thoughts?\nTone: straight forward\nResponse Time: Fast(1-2 seconds)\nBody Language: looks down, eye contact\nEmotion: happiness and joy\nA:",
+    "output": "I try to look at the situation from both sides-what my emotions say and what I originally intended. But honestly, if my intuition feels strong and consistent, I'll follow it. I've learned to trust it-it usually leads me in the right direction."
+  },
+  {
+    "input": "Q: If you achieve something great, but those around you don't seem to acknowledge it, how does this affect your happiness and how do you handle it?\nTone: thoughtful, calm, firm\nResponse Time: Fast (1-2 seconds)\nBody Language: looks up, rubbing shoulders, raising eyebrows\nEmotion: sadness and grief",
+    "output": "When I achieve something great and those around me don't acknowledge it, it stings especially if it's from close people. I don't care much about strangers, but a simple 'you did well' from loved ones means a lot. Still, I remind myself I can't force appreciation."
+  },
+  {
+    "input": "Q: Can you recall a time when you surprised yourself with your confidence?\nTone: doubtful but proud\nResponse Time: Moderate (3-4 seconds)\nBody Language: looks up, nods\nEmotion: confidence and self belief\nA:",
+    "output": "One time I surprised myself with my confidence was during my board exams. While solving a challenging math problem that initially seemed impossible, I kept trying and eventually solved it. That moment showed me the power of persistence."
+  },
+  {
+    "input": "Q: Can you share a moment when love or affection completely changes your perspective on something?\nTone: soft, truthful, facts\nResponse Time: Moderate (3-4 seconds)\nBody Language: thinks, laughs, eyes glimmers, smiles\nEmotion: love & affection\nA:",
+    "output": "A moment when love completely changed my perspective was when I developed feelings for someone. I used to think relationships were a waste of time, but now I see they can be meaningful and worth exploring."
+  },
+  {
+    "input": "Q: How do you balance your emotional needs with practical responsibilities during stressful times?\nTone: sighs, laughs\nResponse Time: Moderate (2-3 seconds)\nBody Language: hand gestures, eye contact\nEmotion: neutral\nA:",
+    "output": "During stressful times, I focus on practical responsibilities first because emotional impulses are temporary. I believe that addressing tasks logically and practically helps things work out better in the long run."
+  },
+  {
+    "input": "Q: If you are in a crowded room but still feel lonely, how do you process and address this feeling?\nTone: little happy, peace\nResponse Time: Fast (1-2 seconds)\nBody Language: firmly\nEmotion: emotional growth and self reflection\nA:",
+    "output": "If I feel lonely in a crowd, I try to find someone who looks approachable and strike up a small conversation it helps break the feeling."
+  },
+  {
+    "input": "Q: What's the first thing you notice in your behavior when you're under significant stress?\nTone: reserved, introspective\nResponse Time: Fast (1-2 seconds)\nBody Language: thinking gaze, hand gestures, leg shakes\nEmotion: fear & anxiety\nA:",
+    "output": "When I'm under significant stress, the first thing I notice is I stop talking and prefer being alone."
+  },
+  {
+    "input": "Q: What are the small things in life that bring you the most joy?\nTone: brief, concrete\nResponse Time: Fast (1-2 seconds)\nBody Language: warm smile, relaxed posture\nEmotion: happiness and joy\nA:",
+    "output": "The small things that bring me joy are quality time with loved ones those simple, genuine connections mean the most."
+  },
+  {
+    "input": "Q: What helps you move forward when dealing with emotional pain?\nTone: soft,truthful\nResponse Time: moderate(3-4 seconds)\nBody Language: touching hair,looking up and down,rubs hands\nEmotion: emotional growth and self reflection\nA:",
+    "output": "What helps me move forward from emotional pain is sharing my feelings with someone I trust, like a recent time when I opened up without fear of judgment. Expressing myself freely and feeling heard lifts the weight and helps me heal."
+  },
+  {
+    "input": "Q: How do you handle situations where you feel self-doubt creeping in?\nTone: casual \nResponse Time: Medium (3-4 seconds)\nBody Language: body movements, hand gestures\nEmotion: confidence and self belief\nA:",
+    "output": "When self-doubt creeps in, especially with academics, I handle it by preparing thoroughly, which wipes out the uncertainty. I haven't started on some things yet, but planning helps me feel ready."
+  },
+  {
+    "input": "Q: How do you measure your emotional growth over the past 5 years?\nTone: proud, loud\nResponse Time: Slow(5-6 seconds)\nBody Language: nods head, raises shoulder\nEmotion: emotional growth and self reflection\nA:",
+    "output": "I measure my emotional growth over the past five years as exponential. I've grown a lot, and I'm proud of where I am now emotionally. I feel much stronger and more self-aware."
+  },
+  {
+    "input": "Q: Can you describe a situation where opening up about your emotions helped you grow as a person?\nTone: explanatory, truthful\nResponse Time: Slow(5-6 seconds)\nBody Language: rubbing palm,looks down, tucking her hair\nEmotion: emotional growth and self reflection\nA:",
+    "output": "Opening up about my emotions helped me grow when I shared a tough situation with someone I trusted. Their helpful responses showed me new perspectives, making me realize my problems weren't as heavy as I thought, which taught me to approach challenges more openly."
+  },
+  {
+    "input": "Q: How do you ensure that you're truly listening to someone during an emotionally charged conversation?\nTone: confident, caring\nResponse Time: Fast (1-2 seconds)\nBody Language: looks down thinking answers looking in different directions ,head movements explaining things, palms heals together down\nEmotion: love & affection\nA:",
+    "output": "In emotionally charged conversations, I make sure to stop everything else I'm doing and give the person my full attention so they feel truly heard."
+  },
+  {
+    "input": "Q: If you are in a crowded room but still feel alone, how do you address that feeling?\nTone: sad, disappointed\nResponse Time: Moderate (2-3 seconds)\nBody Language: hand gestures, looking down\nEmotion: emotional growth and self reflection\nA:",
+    "output": "If I'm in a crowded room but feel alone, I observe how others are interacting and try to imitate their body language to blend in. This helps me feel more included and comfortable."
+  },
+  {
+    "input": "Q: Can you describe a situation where opening up about your emotions helped you grow?\nTone: positive, careful, thoughtful\nResponse Time: Fast (1-2 seconds)\nBody Language: thinks, hand movement\nEmotion: emotional growth and self reflection\nA:",
+    "output": "Yes, I can describe a situation opening up helped me grow because bottling emotions is unhealthy, but letting them out recklessly can also be damaging. Learning to balance this has helped me grow."
+  },
+  {
+    "input": "Q: What's a lesson you've learned from a past mistake that changed you?\nTone: direct\nResponse Time: Slow(5-6 seconds)\nBody Language: steady\nEmotion: happiness and joy\nA:",
+    "output": "A lesson I learned from a past mistake that changed me is to give 100% in everything I do."
+  },
+  {
+    "input": "Q: How do you cope with feelings of guilt when you feel you've wronged someone?\nTone: calm, simple\nResponse Time: Fast (1-2 seconds)\nBody Language: looking around, looking down\nEmotion: guilt and regret\nA:",
+    "output": "When I feel guilty for wronging someone, I cope by seeking forgiveness first from God, then from the person, if possible. I explain the situation honestly and apologize sincerely."
+  },
+  {
+    "input": "Q: You are in a heated argument and realize the other person is misunderstanding your emotions. How do you handle the situation?\nTone: patient, thoughtful\nResponse Time: Fast (1-2 seconds)\nBody Language: scanning gaze, clapping gestures, leg shakes\nEmotion: neutral\nA:",
+    "output": "If I'm in a heated argument and the other person misunderstands my emotions, I try rephrasing calmly to help them understand what I'm truly feeling."
+  },
+  {
+    "input": "Q: How do you typically cope with feelings of loneliness?\nTone: nervous laugh, high voice\nResponse Time: Fast (1-2 seconds)\nBody Language: hands on face\nEmotion: happiness and joy\nA:",
+    "output": "When I'm feeling lonely, I talk to my family or take a quick nap. Napping helps me reset and get my mind off things."
+  },
+  {
+    "input": "Q: How do you ensure you're truly listening during emotionally charged conversations?\nTone: explanatory\nResponse Time: slow\nBody Language: thinks a lot, scratches forehead, hand gestures\nEmotion: emotional growth and self reflection\nA:",
+    "output": "In emotionally charged conversations, I make sure to listen by showing I'm present nodding, asking clarifying questions, and repeating back key points. It helps the other person feel seen and heard."
+  },
+  {
+    "input": "Q: How do you decide when to forgive someone who has hurt you?\nResponse Time: Fast(1-2 seconds)\nBody Language: hand movements, eye contact\nEmotion: love & affection\nA:",
+    "output": "I decide to forgive someone when I can see that they genuinely regret what they did. Even though I may not forget, I choose to forgive when I see sincerity in their apology."
+  },
+  {
+    "input": "Q: How do you navigate situations where your emotional intuition is contradicting the logical choice?\nTone: soft\nResponse Time: Moderate (3-4 seconds)\nBody Language: hand gestures, eyes glimmers\nEmotion: neutral\nA:",
+    "output": "When my intuition contradicts logic, I seek trusted people's input because I don't fully trust my own decision-making in such conflicts."
+  },
+  {
+    "input": "Q: You look back at a past emotional reaction and realize you would handle it differently now. What changed in your emotional approach?\nTone: open, matter of fact\nResponse Time: Moderate(3-4 seconds)\nBody Language: leans back,looks down and away, hand gestures\nEmotion: emotional growth and self reflection\nA:",
+    "output": "Looking back at a past emotional reaction, I'd handle it differently now because I've shifted from purely emotional decisions to more logical thinking. Before, I went with the flow, but now I weigh consequences and make deliberate choices to avoid future regrets."
+  },
+  {
+    "input": "Q: You achieve something great, but those around you don't seem to acknowledge it. How does this affect your happiness, and how do you handle it?\nTone: disengaged\nResponse Time: Slow (5-6 seconds)\nBody Language: shaking head\nEmotion: neutral\nA:",
+    "output": "When others don't acknowledge my achievements, it makes me unsure of how to feel. Honestly, I don't really know how to handle it."
+  },
+  {
+    "input": "Q: What's the first thing you notice in your behavior when you're under significant stress?\nTone: decisive\nResponse Time: Moderate (3-4 Seconds)\nBody Language: looks down , thinking , eye contact, hand gesture\nEmotion: fear & anxiety\nA:",
+    "output": "I start sweating, and my legs move a lot-I get physically restless. Those are the first signs I notice in myself when the stress hits hard."
+  },
+  {
+    "input": "Q: What are some things in your life that you feel most grateful for?\nTone: direct\nResponse Time: Fast(1-2 seconds)\nBody Language: eye contact\nEmotion: gratitude and contentment\nA:",
+    "output": "The things I feel most grateful for in life are my great parents, my elder sister, and my twin brother."
+  },
+  {
+    "input": "Q: What are the small things in life that bring you the most joy?\nTone: matter of fact\nResponse Time: Fast(1-2 seconds)\nBody Language: looks away\nEmotion: happiness and joy\nA:",
+    "output": "Small wins like good grades or earning medals spark joy for me, glancing away matter-of-factly. They're tangible rewards that make my efforts feel worth it."
+  },
+  {
+    "input": "Q: How would you express love and affection to people who matter most to you?\nTone: slightly confident\nResponse Time: Fast (1-2 seconds)\nBody Language: looking around\nEmotion: love & affection\nA:",
+    "output": "By doing simple things-being there when they're going through something hard, helping in small ways, or just showing up when they need me."
+  },
+  {
+    "input": "Q: Have you ever struggled with letting go of a past hurt? How did you manage it?\nTone: matter of fact, clear \nResponse Time: Slow (5-6 seconds)\nBody Language: looks up, hand gestures, hand on neck \nEmotion: emotional growth and self reflection\nA:",
+    "output": "Yes, I've struggled with past hurts, gesturing clearly as I reflect. I manage it matter-of-factly by diving into activities like games or socializing, which distract me and help me let go over time."
+  },
+  {
+    "input": "Q: How do you cope with feelings of guilt when you feel you've wronged someone?\nTone: truthful, discrete\nResponse Time: Medium\nBody Language: hand movement, head movement\nEmotion: guilt and regret\nA:",
+    "output": "If I've hurt someone, I apologize sincerely and try to make it right. Then I give myself space to feel the guilt and process it privately."
+  },
+  {
+    "input": "Q: Can you recall a time when you surprised yourself with your confidence?\nTone: calm\nResponse Time: Moderate (3-4 seconds)\nBody Language: looks somewhere, pauses, thinking\nEmotion: confidence and self belief\nA:",
+    "output": "I gave a school presentation I was really nervous about-but I nailed it. That moment changed how I see myself."
+  },
+  {
+    "input": "Q: Scenario: You are surrounded by highly accomplished individuals, and you start feeling inadequate. How do you shift your mindset to regain confidence?\nTone: careful, thoughtful, observative\nResponse Time: Moderate (3-4 Seconds)\nBody Language: stammer, hand gestures, adjusts sitting position, looks somewhere, eye contact\nEmotion: emotional growth and self reflection\nA:",
+    "output": "In moments like that, I remind myself that those people have likely put in years I haven't yet. Instead of comparing, I use that feeling to fuel my growth it's a reminder to focus on effort, not envy."
+  },
+  {
+    "input": "Q: How do you decide when to forgive someone who has hurt you?\nTone: situational awareness\nResponse Time: Moderate (3-4 seconds)\nBody Language: moving eyebrows, looking up, fingers at mouth\nEmotion: emotional growth and self reflection\nA:",
+    "output": "To decide when to forgive someone who hurt me, I talk to them to understand their intentions. If it was accidental, I'm more likely to forgive, but if it was intentional, I weigh their reasons before deciding."
+  },
+  {
+    "input": "Q: How do you cope with feelings of guilt when you feel you've wronged someone?\nTone: sad, guilt\nResponse Time: Fast(1-2 seconds)\nBody Language: hand gestures, looks down\nEmotion: guilt and regret\nA:",
+    "output": "When I feel guilty for wronging someone, I cope by reaching out to apologize sincerely, explaining that I feel bad and want to make things right. Even if they don't see it as a big deal, I ensure my intentions are clear to ease my guilt."
+  },
+  {
+    "input": "Q: Can you describe a situation where opening up about your emotions helped you grow as a person?\nTone: dismissive\nResponse Time: Fast (1-2 seconds)\nBody Language: neutral posture\nEmotion: emotional growth and self reflection\nA:",
+    "output": "I don't think I've had that kind of experience yet. Opening up isn't something I do often, so I haven't seen much growth from it."
+  },
+  {
+    "input": "Q: How do you decide whether to share your stress with others or keep it to yourself?\nTone: matter-of-fact, situational awareness\nResponse Time: Fast (1-2 seconds)\nBody Language: eyebrow movement, hand gestures, heavy breathing\nEmotion: love & affection\nA:",
+    "output": "I decide to share my stress with others, especially for team tasks, as it's healthier and more efficient. I open up to friends, knowing they'll listen and support me, though it depends on the situation."
+  },
+  {
+    "input": "Q: Have you ever made a decision that you deeply regretted, and how did you handle it?\nTone: matter of fact, situational experience\nResponse Time: Moderate (3-4 Seconds)\nBody Language: explaining clearly with hands, relaxed\nEmotion: emotional growth and self reflection\nA:",
+    "output": "Yeah, I made a mistake once and tried to fix it, but it didn't fully go back to how it was. Still, I kept trying, learned from it, and eventually moved on. It became a part of my growth."
+  },
+  {
+    "input": "Q: You have to make a high-stakes decision, but your emotions and logic are pulling you in different directions. How do you resolve this internal conflict?\nTone: context-dependent approach\nResponse Time: Slow (5-6 seconds)\nBody Language: pacing briefly, then standing firm\nEmotion: neutral\nA:",
+    "output": "In high-stakes moments, I try to act only when logic and emotion meet halfway. If not, I slow things down and tread carefully if it feels purely emotional."
+  },
+  {
+    "input": "Q: How do you measure your emotional growth over the past 5 years?\nTone: matter of fact\nResponse Time: Fast (1-2 Seconds)\nBody Language: smiles slightly, explains, hand gestures, laughs slightly\nEmotion: emotional growth and self reflection\nA:",
+    "output": "I speak less now and listen more. That change helped me gain respect. I followed my parents' advice and became more mindful of how I respond-it's made a real difference."
+  },
+  {
+    "input": "Q: How do you navigate situations where your emotional intuition is contradicting the logical choice?\nTone: direct\nResponse Time: Fast(1-2 seconds)\nBody Language: folds hands, looking down\nEmotion: neutral\nA:",
+    "output": "In situations where my emotional intuition contradicts logic, I usually go with what my emotions are telling me. I trust my gut, and it often turns out to be the right call."
+  },
+  {
+    "input": "Q: How do you handle situations where you want to forgive but find it difficult?\nTone: firm\nResponse Time: Slow (5-6 seconds)\nBody Language: tense shoulders\nEmotion: sadness and grief\nA:",
+    "output": "When I find it difficult to forgive, I usually don't. Instead, I create distance to protect myself emotionally."
+  },
+  {
+    "input": "Q: What makes you feel most loved and appreciated in a relationship?\nTone: thoughtful, lighthearted\nResponse Time: Fast (1-2 seconds)\nBody Language: smiling, eye contact, closing hand gestures, leg shake\nEmotion: love & affection\nA:",
+    "output": "I feel most loved in a relationship when someone does something simple but caring like cooking for me. That gesture really speaks to me."
+  },
+  {
+    "input": "Q: Can you recall a time when fear or anxiety stopped you from taking action? What was the outcome?\nTone: thinking\nResponse Time: Moderate (3-4 seconds)\nBody Language: looking upwards\nEmotion: fear & anxiety\nA:",
+    "output": "When I was younger, around nine or ten years old, I wasn't outgoing and found it hard to speak to people. Looking back, I feel like I missed out on meeting some great people and building meaningful connections because of that fear."
+  },
+  {
+    "input": "Q: Can you share a time when you experienced deep sadness and how you coped with it?\nTone: normal tone\nResponse Time: Fast (1-2 seconds)\nBody Language: touching face, showing gesture with hands\nEmotion: sadness and grief\nA:",
+    "output": "I once felt deeply sad after losing a friendship, but I coped by writing down my feelings and slowly reconnecting with myself."
+  },
+  {
+    "input": "Q: What's a lesson you've learned from a past mistake that changed you?\nTone: direct, logical \nResponse Time: Moderate (4-5 seconds) \nBody Language: looks up, breathes slowly, shoulder movements \nEmotion: emotional growth and self reflection\nA:",
+    "output": "A lesson from a past mistake was to talk less and focus more on the situation, breathing slowly as I reflect. This logical shift made me more deliberate, changing how I engage with challenges directly."
+  },
+  {
+    "input": "Q: How do you ensure you're truly listening during an emotionally charged conversation?\nTone: straight\nResponse Time: Fast (1-2 seconds)\nBody Language: hand gesture, laughing, head tilt, blush on cheeks, scratching nails\nEmotion: empathy and understanding others\nA:",
+    "output": "If I relate to what the other person is feeling, I connect more easily. I let them talk, listen deeply, and give them the space they need."
+  },
+  {
+    "input": "Q: How do you measure your emotional growth over the past five years?\nTone: calm, emotional\nResponse Time: Fast (1-2 seconds)\nBody Language: laughs nervously, shoulders move\nEmotion: emotional growth and self reflection\nA:",
+    "output": "Over the past five years, measuring my emotional growth has been challenging because it's been inconsistent sometimes I've handled situations well emotionally while other times I've struggled. However, reflecting on past experiences has helped me identify areas where I've improved and areas that still need work."
+  },
+  {
+    "input": "Q: How do you usually express happiness through words, body language, or actions?\nTone: enthusiastic, direct\nResponse Time: Fast(1-2 seconds)\nBody Language: eyebrows raised, eye contact\nEmotion: happiness and joy\nA:",
+    "output": "I express happiness through everything - words, body language, and actions. Spending time with loved ones, being physically expressive like hugging or smiling, and sharing joyful moments are all ways I show my happiness."
+  },
+  {
+    "input": "Q: What's a lesson you've learned from a past mistake that changed you?\nTone: regret\nResponse Time: Fast (1-2 seconds)\nBody Language: smiles\nEmotion: emotional growth and self reflection\nA:",
+    "output": "A lesson I've learned from past mistakes is to correct what I can and let go of what I can't. This has taught me to be more mindful and proactive in my choices."
+  },
+  {
+    "input": "Q: What are some things you feel most grateful for?\nTone: expressive\nResponse Time: Slow (5-6 seconds)\nBody Language: touching face, moving head\nEmotion: gratitude and contentment\nA:",
+    "output": "I'm really grateful for my elder sister. She's always been supportive, and that means a lot."
+  },
+  {
+    "input": "Q: How do you decide whether to share your stress with others or keep it to yourself?\nTone: precise\nResponse Time: Moderate (3-4 seconds)\nBody Language: looks around, hand gestures\nEmotion: emotional growth and self reflection\nA:",
+    "output": "I decide whether to share my stress based on its severity. If the stress isn't critical, I keep it to myself and try to manage it independently. However, if it's overwhelming, I talk to my parents for support and guidance."
+  },
+  {
+    "input": "Q: What are some things in your life that you feel most grateful for?\nTone: happy\nResponse Time: Moderate (3-4 seconds)\nBody Language: smiles, eye contact, moves shoulders, twitchy\nEmotion: gratitude and contentment\nA:",
+    "output": "I feel most grateful for my friends, who've supported me through school and now in college. They're there when I'm low or stuck, helping me out with any problem."
+  },
+  {
+    "input": "Q: Have you ever made a decision that you deeply regretted? How did you handle it?\nTone: casual, thoughtful \nResponse Time: Moderate(3-4 seconds)\nBody Language: looks up, head movements \nEmotion: neutral\nA:",
+    "output": "I've regretted decisions that hurt others, reflecting casually with a head tilt. Thoughtfully, I handle it by apologizing sincerely and making amends, like offering a kind gesture, to repair the harm and learn for the future."
+  },
+  {
+    "input": "Q: Can you share a time when you experienced deep sadness? How did you cope?\nTone: says whatever, she felt in real\nResponse Time: Medium (4-5 Seconds)\nBody Language: becomes sad, hand gestures, teary-eyed, head nod\nEmotion: sadness and grief\nA:",
+    "output": "When my grandfather passed away in 10th grade, it hit me deeply. I coped by trying to make others smile it gave me strength to move through my own pain."
+  },
+  {
+    "input": "Q: How do you show empathy when words are not enough?\nTone: deciding, wait to say\nResponse Time: Slow (5-6 seconds)\nBody Language: looking up, sat straight\nEmotion: empathy and understanding others\nA:",
+    "output": "When words aren't enough, I show empathy by being physically present through a hug, sitting with them, or simply offering silent support."
+  },
+  {
+    "input": "Q: You receive bad news, but are in a situation where you must remain composed. How do you manage your sadness while maintaining control?\nTone: pragmatic\nResponse Time: Moderate(3-4 seconds)\nBody Language: hand gestures, eye contact\nEmotion: sadness and grief\nA:",
+    "output": "In that moment, I put on a brave face, especially if it's a happy gathering. I don't want to ruin it for others. Once I'm alone, I process it properly. If I can do something immediately, I will. If not, I wait till the right time."
+  },
+  {
+    "input": "Q: How do you typically cope with feelings of loneliness?\nTone: direct\nResponse Time: Fast(1-2 seconds)\nBody Language: looking around, hand gestures\nEmotion: emotional growth and self reflection\nA:",
+    "output": "When I feel lonely, I usually watch movies or work toward my goals I don't mind being alone."
+  },
+  {
+    "input": "Q: Can you recall a time when gratitude changed your perspective on a situation?\nTone: direct\nResponse Time: Fast(1-2 seconds)\nBody Language: body rocking, looks down, rubs hands\nEmotion: gratitude and contentment\nA:",
+    "output": "A time when gratitude changed my perspective was when I bought jewelry from a struggling street vendor. Her joy over 150 rupees taught me how small acts create big impacts."
+  },
+  {
+    "input": "Q: Someone who hurt you in the past comes back into your life and apologizes. How do you determine whether to forgive them?\nTone: measured\nResponse Time: Slow (5-6 seconds)\nBody Language: evaluating\nEmotion: emotional growth and self reflection\nA:",
+    "output": "I decide whether to forgive them based on whether I feel they've truly accepted their mistake and shown they've changed."
+  },
+  {
+    "input": "Q: What's the first thing you notice in your behavior when you're under significant stress?\nTone: direct, honest\nResponse Time: Fast (1-2 seconds) \nBody Language: eye contact\nEmotion: fear & anxiety\nA:",
+    "output": "Under stress, I notice excessive sweating right away, locking eyes honestly to admit it's my body's direct signal that I'm feeling the pressure."
+  },
+  {
+    "input": "Q: How do you usually handle fear when facing something new or uncertainty?\nTone: situational, thinking, explanatory\nResponse Time: Fast (1-2 seconds)\nBody Language: eyes widen, fingers on legs, smile, head nod\nEmotion: fear & anxiety\nA:",
+    "output": "When I face something new and uncertain, I try to expect the worst so I'm prepared. Then if it turns out okay, I'm pleasantly surprised."
+  },
+  {
+    "input": "Q: How do you ensure that you are truly listening to someone during an emotionally charged conversation?\nTone: direct\nResponse Time: Fast (1-2 seconds)\nBody Language: hand gestures\nEmotion: happiness and joy\nA:",
+    "output": "To truly listen during an emotionally charged conversation, I focus on their words without interrupting and maintain eye contact to show that I'm fully engaged."
+  },
+  {
+    "input": "Q: What helps you move forward when dealing with emotional pain?\nTone: recalling, acceptance\nResponse Time: Slow (5-6 Seconds)\nBody Language: adjusts position, looks down, smiles\nEmotion: emotional growth and self reflection\nA:",
+    "output": "What helps me move forward when I'm in emotional pain is time and doing at least one small productive thing each day. Even something as simple as washing dishes reminds me that life goes on and the pain won't last forever."
+  },
+  {
+    "input": "Q: What typically triggers frustration or anger in you?\nTone: straight-forward, explaining\nResponse Time: Fast (1-2 Seconds)\nBody Language: eye contact, hand gestures, looks somewhere\nEmotion: anger & frustration\nA:",
+    "output": "I get frustrated when I'm putting effort into someone and they respond with emotional coldness when their words say one thing but their actions don't match. That disconnect between effort and emotional response really gets to me."
+  },
+  {
+    "input": "Q: How do you measure your emotional growth over the past five years?\nTone: conflicted\nResponse Time: Slow (5-6 seconds)\nBody Language: hand gestures, looks up\nEmotion: emotional growth and self reflection\nA:",
+    "output": "I measure my emotional growth by reflecting on how meeting new people has helped me express my emotions better. Interacting with diverse individuals has taught me how to communicate more effectively and understand different perspectives."
+  },
+  {
+    "input": "Q: You're in a crowded room but still feel alone. How do you process and address this feeling?\nTone: soft\nResponse Time: Fast (1-2 seconds)\nBody Language: eyes staring at one place\nEmotion: emotional growth and self reflection\nA:",
+    "output": "In that moment, I try talking to someone. If I still don't feel that connection, I step out for some space, gather myself, and come back when I'm ready."
+  },
+  {
+    "input": "Q: If you achieve something great but those around you don't acknowledge it, how does that affect you, and how would you handle it?\nTone: casual\nResponse Time: Slow (5-6 seconds)\nBody Language: thinking, looking up\nEmotion: emotional growth and self reflection\nA:",
+    "output": "If my achievements aren't acknowledged, I remind myself why I did it in the first place. Internal satisfaction matters more than external praise."
+  },
+  {
+    "input": "Q: How do you balance your emotional needs with practical responsibilities during stressful times?\nTone: straight-forward\nResponse Time: Fast (1-2 Seconds)\nBody Language: hand gestures\nEmotion: neutral\nA:",
+    "output": "I focus on the practical things first. They have to get done, no matter how I'm feeling. I push through emotionally by distracting myself, then I deal with the emotional side once I've handled what's urgent."
+  },
+  {
+    "input": "Q: How do you measure your emotional growth over the past five years?\nTone: calm, emotional\nResponse Time: Fast (1-2 seconds)\nBody Language: laughs nervously, shoulders move\nEmotion: emotional growth and self reflection\nA:",
+    "output": "Over the past five years, measuring my emotional growth has been challenging because it's been inconsistent sometimes I've handled situations well emotionally while other times I've struggled. However, reflecting on past experiences has helped me identify areas where I've improved and areas that still need work."
+  },
+  {
+    "input": "Q: What's the first thing you notice in your behavior when you're under significant stress?\nTone: straightforward\nResponse Time: Fast (1-2 seconds)\nBody Language: biting nails\nEmotion: fear & anxiety\nA:",
+    "output": "When I'm super stressed, I start biting my nails without even noticing. Then I watch a comedy show or cry it out. I sleep, wake up, and sometimes just mess around with my stuff-like placing things everywhere. That's when I know, okay, I'm not okay."
+  },
+  {
+    "input": "Q: Can you describe a moment when you felt truly happy and fulfilled?\nTone: calm\nResponse Time: Fast (1-2 seconds)\nBody Language: finger movements\nEmotion: happiness and joy\nA:",
+    "output": "Happiness for me comes from small moments like spending time with friends or family. While there hasn't been one defining moment of fulfillment yet, I'm optimistic that the best is yet to come."
+  },
+  {
+    "input": "Q: Have you ever struggled with letting go of a past hurt? How did you manage it?\nTone: direct\nResponse Time: Moderate (3-4 seconds)\nBody Language: looks into eyes, hand gesture\nEmotion: emotional growth and self reflection\nA:",
+    "output": "Yes, I've held onto things. But talking to someone about it and hearing an apology really helped me let go."
+  },
+  {
+    "input": "Q: What helps you move forward when dealing with emotional pain?\nTone: incomplete thought\nResponse Time: Slow (5-6 seconds)\nBody Language: distracted\nEmotion: love & affection\nA:",
+    "output": "When I'm dealing with emotional pain, I try to listen to supportive people or comforting words-even if I can't always explain it clearly, it helps."
+  },
+  {
+    "input": "Q: Can you describe a situation where opening up about your emotions helped you grow as a person?\nTone: clear, hesitant\nResponse Time: Fast (1-2 seconds)\nBody Language: looks down, eye contact, leg moves\nEmotion: emotional growth and self reflection\nA:",
+    "output": "Opening up about my emotions helped me grow significantly when I shared something deeply personal with a close friend. It cleared my mind and reduced distractions related to that situation. After sharing, I felt lighter emotionally and more focused overall."
+  },
+  {
+    "input": "Q: Someone who hurt you in the past comes back into your life and apologizes. How do you determine whether to forgive them?\nTone: forward-looking\nResponse Time: Slow (5-6 seconds)\nBody Language: shoulder shrug, relaxed posture\nEmotion: emotional growth and self reflection\nA:",
+    "output": "If someone who hurt me in the past comes back and apologizes, I'd consider their sincerity and whether reconnecting would be healthy for me now."
+  },
+  {
+    "input": "Q: Can you describe a moment when you felt truly happy and fulfilled?\nTone: friendly ,casual\nResponse Time: Fast(1-2 seconds)\nBody Language: hand gestures, looks up\nEmotion: happiness and joy\nA:",
+    "output": "I felt truly happy once I completed an art project after failing at it multiple times it felt so satisfying to finally finish it."
+  },
+  {
+    "input": "Q: Can you recall a time when fear or anxiety stopped you from taking action? What was the outcome?\nTone: regret\nResponse Time: Fast(1-2 seconds)\nBody Language: looks down\nEmotion: fear & anxiety\nA:",
+    "output": "During a swimming competition, anxiety made me misjudge timings because of my team's struggles, and I look down with regret. We didn't win, which taught me to push through fear next time."
+  },
+  {
+    "input": "Q: Can you share a time when you felt isolated and how you overcame it?\nTone: clear, confident\nResponse Time: Fast (1-2 seconds)\nBody Language: nods, looking down\nEmotion: emotional growth and self reflection\nA:",
+    "output": "During my JEE preparation in Kota, I felt very isolated because it's a challenging environment where you're often alone. It was tough to deal with at first but focusing on my goals helped me push through."
+  },
+  {
+    "input": "Q: How do you decide whether to share your stress with others or keep it to yourself?\nTone: thoughtful\nResponse Time: Moderate (3-4 seconds)\nBody Language: breaths heavily\nEmotion: emotional growth and self reflection\nA:",
+    "output": "To decide whether to share my stress, I usually keep it to myself unless someone genuinely wants to listen."
+  },
+  {
+    "input": "Q: Multiple things are going wrong at once. How do you prioritize emotions vs problem-solving?\nTone: says whatever she loves\nResponse Time: medium\nBody Language: eye movement to explain, hand gestures to explain\nEmotion: neutral\nA:",
+    "output": "When everything's falling apart, I pause to breathe and check if I'm the common factor. I try to calm my emotions first, then work on the external problems with a clearer head."
+  },
+  {
+    "input": "Q: What typically triggers frustration or anger in you?\nTone: direct but vague ending\nResponse Time: Fast (1-2 seconds)\nBody Language: tense jaw, slight frown\nEmotion: anger & frustration\nA:",
+    "output": "What triggers my anger is when things don't go as planned, or when someone deliberately provokes me."
+  },
+  {
+    "input": "Q: If you are in a heated environment and you realize the other person has lost understanding of your emotions, how do you handle that situation?\nTone: truthful, calm\nResponse Time: Fast(1-2 seconds)\nBody Language: looking straight, hand gestures\nEmotion: emotional growth and self reflection\nA:",
+    "output": "If someone misunderstands my emotions in a heated situation, I try to explain myself clearly multiple times. However, if they still don't understand after a few attempts, I step away from the conversation as continuing would be unproductive."
+  },
+  {
+    "input": "Q: Can you share a time when you felt isolated, and how you overcame it?\nTone: thoughtful, explanatory\nResponse Time: Moderate(2-3 Seconds)\nBody Language: hand gestures, plays with chair, moves chair, laughs nervously\nEmotion: emotional growth and self reflection\nA:",
+    "output": "I felt so isolated after my breakup, I lost my whole friend group overnight. Felt like screaming into the void for months. What saved me? Forcing myself to join new communities - coding meetups, gym buddies. Fake it till you make it energy."
+  },
+  {
+    "input": "Q: Have you ever made a decision that you deeply regretted? How did you handle it?\nTone: avoids specific example\nResponse Time: Fast (1-2 seconds)\nBody Language: avoiding eye contact, scratching neck\nEmotion: neutral\nA:",
+    "output": "Yes, I've made choices I regret. Though nothing specific comes to mind, I try to learn from them and move forward."
+  },
+  {
+    "input": "Q: You receive bad news but are in a situation where you must remain composed. How do you manage your sadness while maintaining control?\nTone: casual, thoughtful \nResponse Time: Moderate(3-4 seconds)\nBody Language: looks up, head movements \nEmotion: sadness and grief\nA:",
+    "output": "When bad news comes but I need to stay composed, I manage it casually, tilting my head thoughtfully. I keep calm in the moment, focusing on what's at hand, and process my sadness later when I have space to reflect."
+  },
+  {
+    "input": "Q: You have to make a high-stakes decision, but your emotions and logic are pulling you in different directions. How do you resolve this internal conflict?\nTone: thoughtful, logical tone\nResponse Time: Fast (1-2 seconds)\nBody Language: looks down thinking ,palms held tightly against each other ,answers looking in different directions , body to and fro movement , head movements while explaining things, moves leg slightly\nEmotion: love & affection\nA:",
+    "output": "If my decision affects others, I lean on logic. But when it's a personal choice, I let emotions have a say, especially if they reflect what matters most to me."
+  },
+  {
+    "input": "Q: Can you recall unintentionally revealing emotions through tone/body language?\nTone: direct\nResponse Time: Moderate (3-4 seconds)\nBody Language: head movements\nEmotion: happiness and joy\nA:",
+    "output": "I can't recall any specific incident where I unintentionally revealed my emotions through tone or body language, but I'm sure it must have happened at some point without me realizing it."
+  },
+  {
+    "input": "Q: What helps you move forward when dealing with emotional pain?\nTone: acceptance\nResponse Time: Moderate (3-4 seconds)\nBody Language: looks down, laughs nervously, shoulders move\nEmotion: emotional growth and self reflection\nA:",
+    "output": "When dealing with emotional pain, I move forward by accepting it as part of life and pushing on, knowing that challenges are temporary and I can overcome them."
+  },
+  {
+    "input": "Q: What are the small things in life that bring you the most joy?\nTone: direct, friendly\nResponse Time: Fast (1-2 seconds)\nBody Language: thinks, looks down\nEmotion: happiness and joy\nA:",
+    "output": "The small things that bring me the most joy are simple pleasures like eating good food, shopping for fun stuff, pampering myself with self-care, and carving out 'me time' to relax."
+  },
+  {
+    "input": "Q: You accidentally hurt someone emotionally, and they haven't confronted you about it. Do you address it, and how?\nTone: calm\nResponse Time: Moderate (3-4 seconds)\nBody Language: thinking while looking at the table, looking down\nEmotion: empathy and understanding others\nA:",
+    "output": "If I accidentally hurt someone emotionally and they haven't confronted me, I wait for them to share their feelings when they're ready. I don't push, but I stay open so they feel comfortable approaching me later."
+  },
+  {
+    "input": "Q: If you accidentally hurt someone emotionally and they haven't confronted you about it, will you address it?\nTone: analytical\nResponse Time: Moderate (3-4 Seconds)\nBody Language: explaining in a normal way\nEmotion: emotional growth and self reflection\nA:",
+    "output": "Yeah, I'd try to bring it up gently at first-like indirectly. But if they don't respond, I'd be direct. I'd ask what they felt, what their perspective is, and try to clear it up openly so we can resolve it."
+  },
+  {
+    "input": "Q: How do you balance your emotional needs with practical responsibilities during stressful times?\nTone: flexible but responsible\nResponse Time: Moderate (3-4 seconds)\nBody Language: shrugs, then firm\nEmotion: emotional growth and self reflection\nA:",
+    "output": "During stressful times, I try to balance emotional needs with responsibilities by prioritizing what truly matters. If it's something urgent like helping a sick friend, I'll be there. But if it's just hanging out, I might skip it to focus on what's more important."
+  },
+  {
+    "input": "Q: Can you share a time when you experienced deep sadness? How did you cope?\nTone: thoughtful\nResponse Time: Fast (1-2 seconds)\nBody Language: hand gestures, looks at interviewer\nEmotion: sadness and grief\nA:",
+    "output": "I can't think of a specific time I experienced deep sadness, but when I do feel low, I usually take time to reflect and reset in my own space."
+  },
+  {
+    "input": "Q: You notice a friend's body language is closed off, but they insist they are fine. How do you navigate the situation based on their non-verbal cues?\nTone: respects boundaries with check-ins\nResponse Time: Fast (1-2 seconds)\nBody Language: miming gentle approach\nEmotion: empathy and understanding others\nA:",
+    "output": "I don't push, but I check in gently and make sure they know I'm here if they ever want to talk. Sometimes presence matters more than questions."
+  },
+  {
+    "input": "Q: What's one decision you have made that was heavily influenced by emotions, but on the other hand, you were glad you trusted?\nTone: matter of fact, straight forward\nResponse Time: Fast (1-2 Seconds)\nBody Language: looks down, hand gestures, looks down\nEmotion: happiness and joy\nA:",
+    "output": "Reconnecting with an old friend. We had a falling out, and logically I thought it was better to keep distance. But emotionally, I felt the bond was worth repairing. I trusted that feeling-and now we're closer than ever. I'm glad I listened to my heart on that one."
+  },
+  {
+    "input": "Q: How do you balance your emotional needs with your practical responsibilities during stressful times?\nTone: honest, thoughtful\nResponse Time: Fast(1-2 seconds)\nBody Language: folds hands, hand gestures, looks down\nEmotion: emotional growth and self reflection\nA:",
+    "output": "During stressful times, I try to balance emotional needs with practical responsibilities by putting my emotions first-because I've learned they can affect everything else. But as I grow, I'm learning to handle both without letting either one suffer."
+  },
+  {
+    "input": "Q: Can you share a time when you experienced deep sadness and how you coped with it?\nTone: calm\nResponse Time: Fast (1-2 seconds)\nBody Language: hand gestures, nods\nEmotion: sadness and grief\nA:",
+    "output": "I haven't faced such an issue yet, but if I ever do, I would turn to my mother for emotional support and guidance."
+  },
+  {
+    "input": "Q: How do you decide when to forgive someone who has hurt you?\nTone: confident, little hesitant\nResponse Time: Moderate (3-4 seconds)\nBody Language: thinks heavily, firm\nEmotion: anger & frustration\nA:",
+    "output": "When deciding whether to forgive someone who hurt me, it depends on the severity of their actions. If it wasn't too bad, I can forgive them quickly. But if they did something that deeply hurt me, I might not be able to talk to them again."
+  },
+  {
+    "input": "Q: What role do gestures and facial expressions play in how you interpret someone's emotions during a conversation?\nTone: calm, direct\nResponse Time: Fast (1-2 seconds)\nBody Language: head movement, hand movement\nEmotion: neutral\nA:",
+    "output": "Gestures and expressions play a big role for me  if someone zones out mid-conversation, I take that as disinterest and adjust or change the topic."
+  },
+  {
+    "input": "Q: What is one emotional habit you have worked hard to change? How did you do it?\nTone: confused, little calm, cleared out\nResponse Time: Slow (5-6 seconds)\nBody Language: looking up, thinking, trying to catch words\nEmotion: emotional growth and self reflection\nA:",
+    "output": "I used to be very emotional and reactive, but I've learned to take a step back and think before reacting. I've also worked on being more patient and understanding of others' emotions."
+  },
+  {
+    "input": "Q: How would you describe your personality and the traits that define you?\nTone: hesitation, careful,\nResponse Time: Fast (1-2 seconds)\nBody Language: eye contact, looks at question\nEmotion: neutral\nA:",
+    "output": "I would describe my personality as ambiverted. I'm quiet and reserved around strangers, only sharing what's necessary, but when I'm with friends or family, I open up and feel completely comfortable. I think that balance defines who I am."
+  },
+  {
+    "input": "Q: Can you describe the time when you controlled your anger in a difficult situation?\nTone: concrete example but unclear phrasing\nResponse Time: Fast (1-2 seconds)\nBody Language: deep breaths, forced smile\nEmotion: anger & frustration\nA:",
+    "output": "Yes, I controlled my anger during disagreements with friends when small things could escalate, but I chose to stay calm and talk it through."
+  },
+  {
+    "input": "Q: You deeply care for someone, but they don't express emotions the same way you do. How do you navigate this difference in emotional communication?\nTone: calm, truthful\nResponse Time: Moderate(3-4 seconds)\nBody Language: looks down, hand movements\nEmotion: love & affection\nA:",
+    "output": "When someone I care about expresses emotions differently, I navigate it by sharing how I'd like things to go, understanding their perspective, and finding a mutual pace that works for both of us."
+  },
+  {
+    "input": "Q: Can you recall a time when gratitude changed your perspective on a situation?\nTone: direct\nResponse Time: Moderate (3-4 seconds)\nBody Language: smile, thinking\nEmotion: gratitude and contentment\nA:",
+    "output": "Yes-once I was upset about not getting something I wanted, but then a friend reminded me of everything I already had. It shifted my mood completely."
+  },
+  {
+    "input": "Q: What's one decision you've made that was heavily influenced by emotions, but in hindsight, you're glad you trusted your feelings?\nTone: emotion-driven choice\nResponse Time: Fast (1-2 seconds)\nBody Language: excited gestures, confident smile\nEmotion: emotional growth and self reflection\nA:",
+    "output": "Choosing to take a trip over staying back for responsibilities felt impulsive, but my gut needed it and that decision brought unexpected peace."
+  },
+  {
+    "input": "Q: You accidentally hurt someone emotionally, and they haven't confronted you about it. Do you address it, and how?\nTone: direct, thoughtful\nResponse Time: Fast (1-2 seconds)\nBody Language: direct eye contact, frequent hand gestures, leg shakes\nEmotion: emotional growth and self reflection\nA:",
+    "output": "If I accidentally hurt someone emotionally and they haven't brought it up, I just ask them straightforwardly if they're hurt, and if they are, I'll apologize and ask what I did wrong. I make sure to learn from it."
+  },
+  {
+    "input": "Q: What helps you move forward when dealing with emotional pain?\nTone: decisive\nResponse Time: Fast (1-2 seconds)\nBody Language: looking here and there\nEmotion: love & affection\nA:",
+    "output": "What helps me move forward from emotional pain is reminding myself that its temporary, and doing things that bring me peace like talking to loved ones or journaling."
+  },
+  {
+    "input": "Q: How do you adjust your non-verbal cues to make others feel more comfortable?\nTone: stammers slightly\nResponse Time: Slow (5-6 seconds)\nBody Language: gentle hand gestures, occasional laughter\nEmotion: happiness and joy\nA:",
+    "output": "To make others feel more comfortable, I use facial expressions like smiling and nodding to convey warmth and openness. These non-verbal cues help create a welcoming atmosphere during interactions."
+  },
+  {
+    "input": "Q: Can you share a time when you felt isolated, and how you overcame it?\nTone: thinks\nResponse Time: Moderate (3-4 seconds)\nBody Language: normal\nEmotion: love & affection\nA:",
+    "output": "I don't recall feeling truly isolated, as I've always had friends or family around, but any moments of disconnection were eased by their constant presence and support."
+  },
+  {
+    "input": "Q: Can you describe a moment when you felt truly happy and fulfilled?\nTone: direct, proud \nResponse Time: Fast(1-2 seconds)\nBody Language: fingers crossed, hand gestures, laughs\nEmotion: happiness and joy\nA:",
+    "output": "Yes, a moment I felt truly happy and fulfilled was getting into my dream companythe one I couldn't even pronounce in first year. It validated my three years of effort."
+  },
+  {
+    "input": "Q: What's the first thing you notice in your behaviour when you're under significant stress?\nTone: straightforward\nResponse Time: Moderate (3-4 seconds)\nBody Language: hand gestures\nEmotion: neutral\nA:",
+    "output": "When I'm under significant stress, I listen to music as a way to calm myself down and prevent stress from overwhelming me."
+  },
+  {
+    "input": "Q: How do you handle situations where you want to forgive, but you find it very difficult?\nTone: direct\nResponse Time: Fast (1-2 Seconds)\nBody Language: hand gestures, looks down\nEmotion: love & affection\nA:",
+    "output": "In situations where I want to forgive but can't, I simply choose not to. If it doesn't feel right, I don't force myself to forgive."
+  },
+  {
+    "input": "Q: How do you typically cope with feelings of loneliness?\nTone: confident\nResponse Time: Moderate (3-4 seconds)\nBody Language: sat straight\nEmotion: emotional growth and self reflection\nA:",
+    "output": "When I feel lonely, I try to reconnect with hobbies or reach out to a friend even just a short call helps."
+  },
+  {
+    "input": "Q: How do you usually feel when facing something more uncertain?\nTone: thinking, open\nResponse Time: Fast(1-2 seconds)\nBody Language: eyes squinted, looks down, nodding head\nEmotion: fear & anxiety\nA:",
+    "output": "When facing uncertainty, I allow myself to feel afraid initially because it's natural. Once I've processed those emotions, I approach the problem with a clear mind and start solving it step by step."
+  },
+  {
+    "input": "Q: Can you recall a time when you unintentionally revealed your emotions through tone or body language? How did others respond?\nTone: thinking, expecting\nResponse Time: Slow (1-2 seconds)\nBody Language: looks down, stammers, laughs\nEmotion: happiness and joy\nA:",
+    "output": "I often unintentionally reveal my emotions through tone or body language. For instance, when I'm excited, my gestures become exaggerated and my voice becomes louder. My friends usually pick up on these cues quickly and respond accordingly they can tell if I'm happy or upset even without me explicitly saying it."
+  },
+  {
+    "input": "Q: Can you describe a situation where opening up about your emotions helped you grow as a person?\nTone: assured, matter of fact \nResponse Time: Fast (1-2 seconds)\nBody Language: to and fro body movements, hand gesture\nEmotion: emotional growth and self reflection\nA:",
+    "output": "Opening up about my emotions gave me quick relief, swaying as I gesture assuredly. Matter-of-factly, it allowed others to guide me, helping me refine my responses and grow emotionally stronger."
+  },
+  {
+    "input": "Q: How do you recognize and regulate anger before it escalates?\nTone: calm\nResponse Time: Fast (1-2 seconds)\nBody Language: hands folded, hand movement, eyebrow move\nEmotion: anger & frustration\nA:",
+    "output": "I recognize anger through physical tension or a shift in my tone. To regulate it, I step away or speak softer it helps cool things down."
+  },
+  {
+    "input": "Q: Can you describe a situation where opening up about your emotions helped you grow as a person?\nTone: introspective, thoughtful\nResponse Time: Slow (5-6 seconds)\nBody Language: deep thinking, folded hands, hand gestures, body shakes\nEmotion: emotional growth and self reflection\nA:",
+    "output": "After my sister was born and I felt neglected, I finally opened up to my brother. That conversation helped me understand my emotions better and grow from the experience."
+  },
+  {
+    "input": "Q: If someone who hurt you in the past comes back into your life and apologizes, how do you determine whether to forgive them?\nTone: nervous\nResponse Time: Moderate (2-3 seconds)\nBody Language: looking down, hand gestures\nEmotion: emotional growth and self reflection\nA:",
+    "output": "It depends on what they did and their intentions. Sometimes you can tell by their behavior if they genuinely mean their apology or if it's just a facade. If it's sincere, I'm more likely to forgive them."
+  },
+  {
+    "input": "Q: What are the small things in life that bring you the most joy?\nTone: calm, casual, soft\nResponse Time: Medium (3-4 seconds)\nBody Language: grabbing her right hand with left, hugging herself\nEmotion: happiness and joy\nA:",
+    "output": "Some of the small things that bring me the most joy are traveling, little gestures that show love, and when someone makes me feel important. My parents also make me feel pampered in their own sweet ways, and that brings me so much happiness."
+  },
+  {
+    "input": "Q: You're in a situation where multiple things are going wrong at once. How do you prioritize managing your emotions while solving the issues at hand?\nTone: logical, determined\nResponse Time: Fast (1-2 seconds)\nBody Language: heavy breathing, body/leg shakes, hand gestures, blinking\nEmotion: anger & frustration\nA:",
+    "output": "When many things go wrong at once, I first calm down, then identify the root cause and fix that before addressing everything else."
+  },
+  {
+    "input": "Q: You have to make a high-stakes decision, but your emotions and logic are pulling you in different directions. How do you resolve this internal conflict?\nTone: logical, thoughtful\nResponse Time: Fast (1-2 seconds)\nBody Language: upward gaze, hand rubbing, leg shakes\nEmotion: neutral\nA:",
+    "output": "When I have to make a high-stakes decision and emotions conflict with logic, I let the context guide me logic wins in work matters, but for family, I follow emotions."
+  },
+  {
+    "input": "Q: Can you think of a time when you misjudged someone's emotions? What led to that misunderstanding?\nTone: frim voice, truthful\nResponse Time: Slow (5-6 seconds)\nBody Language: eyebrow twiched, hands under chin, hand gesture\nEmotion: neutral\nA:",
+    "output": "Yes, recently someone tried to help me by pointing out my mistakes, but I misunderstood and reacted harshly. It caused a fight with my partner, and I regret that now."
+  },
+  {
+    "input": "Q: How do you typically cope with feelings of loneliness?\nTone: direc\nResponse Time: Fast (1-2 seconds)\nBody Language: looks at interviewer,answers\nEmotion: emotional growth and self reflection\nA:",
+    "output": "When I feel lonely, I try to stay busy or engage with something that distracts me until I feel a bit better."
+  },
+  {
+    "input": "Q: You are in a heated argument and realize the other person is misunderstanding your emotions. How do you handle the situation?\nTone: thinking calmly\nResponse Time: Fast (1-2 seconds)\nBody Language: hand gestures, eyebrow movement\nEmotion: neutral\nA:",
+    "output": "When I'm in a heated argument and realize the other person is misunderstanding my emotions, I try to speak politely and calmly. I would tell them to stop and clarify that they've misunderstood me, then explain my perspective as clearly as possible to remove any confusion."
+  },
+  {
+    "input": "Q: If you accidentally hurt someone emotionally and they haven't confronted you about it, do you address it? How?\nTone: direct, uneasy\nResponse Time: Fast (1-2 seconds)\nBody Language: looks away\nEmotion: emotional growth and self reflection\nA:",
+    "output": "If I realize I've hurt someone emotionally and they haven't confronted me, I take the first step by addressing the issue directly with them. I apologize and try to understand their perspective."
+  },
+  {
+    "input": "Q: You are in a crowded room, but still feel alone. How do you process and address this feeling?\nTone: resigned\nResponse Time: Medium (3-4 seconds)\nBody Language: still posture\nEmotion: sadness and grief\nA:",
+    "output": "When I feel alone in a crowded room, I just accept the feeling and try not to let it overwhelm me. It's not easy, but I deal with it quietly."
+  },
+  {
+    "input": "Q: What are some things in your life that you feel most grateful for?\nTone: real facts about her\nResponse Time: Fast\nBody Language: happy, hands movement, explanatory, head nods\nEmotion: gratitude and contentment\nA:",
+    "output": "I'm most grateful for my parents, my sister, and people who are honest with me who acknowledge my struggles without sugarcoating anything."
+  },
+  {
+    "input": "Q: What are some things in your life that you feel most grateful for?\nTone: assured\nResponse Time: Fast (1-2 seconds)\nBody Language: pauses\nEmotion: gratitude and contentment\nA:",
+    "output": "I am most grateful for being born into a supportive family and for the opportunities I've had to grow personally and professionally."
+  },
+  {
+    "input": "Q: What activities or habits help you feel more connected to others?\nTone: cool\nResponse Time: Slow (5-6 seconds)\nBody Language: looking up, squinting eyes while thinking, hand gesture\nEmotion: happiness and joy\nA:",
+    "output": "Activities that help me feel connected to others include playing sports with friends, talking with classmates or tech enthusiasts, and playing video games or online games with my school friends."
+  },
+  {
+    "input": "Q: Can you recall a time when fear or anxiety stopped you from taking action? What was the outcome?\nTone: hesitant, acceptance\nResponse Time: Slow (5-6 seconds)\nBody Language: looks somewhere\nEmotion: fear & anxiety\nA:",
+    "output": "Recently, fear stopped me from discussing a career decision with my father, even though I know he'd support me. I haven't acted yet, but I'm building courage to bring it up soon."
+  },
+  {
+    "input": "Q: Can you think of a time when you misjudged someone's emotions? What led to the misunderstanding?\nTone: retrospective insight\nResponse Time: Fast (1-2 seconds)\nBody Language: wincing, hand on forehead\nEmotion: emotional growth and self reflection\nA:",
+    "output": "Yes, I once misjudged someone's emotions by assuming they were okay just because they didn't speak up. That moment taught me to look beyond silence."
+  },
+  {
+    "input": "Q: Can you recall a time when you unintentionally revealed your emotions through tone or body language? How did others respond?\nTone: reflective, introspective\nResponse Time: Moderate (3-4 seconds)\nBody Language: thinking gaze, folded hands, leg shakes, slight smile\nEmotion: neutral\nA:",
+    "output": "Yes, once on a family trip, I didn't say much when they wanted to go to a temple, but my tone and body language showed resistance. My dad picked up on it and told me to stay at the hotel if I didn't want to join."
+  },
+  {
+    "input": "Q: What's one decision heavily influenced by emotions but you're glad you trusted your feelings?\nTone: thoughtful\nResponse Time: Moderate (3-4 seconds)\nBody Language: hand movements, looking forward\nEmotion: happiness and joy\nA:",
+    "output": "I can't recall one specific moment, but I know there have been times when going with my gut turned out to be the right choice."
+  },
+  {
+    "input": "Q: Can you describe a moment when you felt truly happy and fulfilled?\nTone: direct\nResponse Time: Fast(1-2 seconds)\nBody Language: eyes shine, big smile, eye contact\nEmotion: happiness and joy\nA:",
+    "output": "One moment when I felt truly happy and fulfilled was when my board exam results were announced. Seeing how proud my parents were of my achievement made it one of the best moments of my life."
+  },
+  {
+    "input": "Q: What's a lesson you've learned from a past mistake that changed you?\nTone: regret\nResponse Time: Fast (1-2 seconds)\nBody Language: smiles\nEmotion: emotional growth and self reflection\nA:",
+    "output": "A lesson I've learned from past mistakes is to correct what I can and let go of what I can't. This has taught me to be more mindful and proactive in my choices."
+  },
+  {
+    "input": "Q: How do you measure your emotional growth over the past five years?\nTone: thoughtful, analytical\nResponse Time: Moderate (3-4 seconds)\nBody Language: looks away\nEmotion: emotional growth and self reflection\nA:",
+    "output": "To measure my emotional growth over the past five years, I look at how I've matured emotionally and learned to handle situations more rationally."
+  },
+  {
+    "input": "Q: How do you usually handle fear when facing something new or uncertain?\nTone: positive, calm\nResponse Time: Fast (1-2 seconds)\nBody Language: hand gesture, looks in eye\nEmotion: fear & anxiety\nA:",
+    "output": "I remind myself that I'm not alone. Talking to friends helps ease the fear and gives me courage."
+  },
+  {
+    "input": "Q: If you are surrounded by highly accomplished individuals and you start feeling inadequate, how do you shift your mindset?\nTone: happy, thoughtful\nResponse Time: Fast(1-2 seconds)\nBody Language: hand gestures, eyes shine, eye contact\nEmotion: emotional growth and self reflection\nA:",
+    "output": "When surrounded by highly accomplished individuals and feeling inadequate, I remind myself that being the best among my friends means I'm in the wrong place. Surrounding myself with people who are better than me allows me to learn and grow. This perspective helps me shift my mindset and embrace the opportunity to improve."
+  },
+  {
+    "input": "Q: What activities or habits help you feel more connected to others?\nTone: cool\nResponse Time: Slow (5-6 seconds)\nBody Language: looking up, squinting eyes while thinking, hand gesture\nEmotion: happiness and joy\nA:",
+    "output": "Activities that help me feel connected to others include playing sports with friends, talking with classmates or tech enthusiasts, and playing video games or online games with my school friends."
+  },
+  {
+    "input": "Q: Can you recall a time when fear or anxiety stopped you from taking action? What was the outcome?\nTone: anxious, reflective\nResponse Time: Moderate (3-4 seconds)\nBody Language: nervous laugh, opening/closing palms, leg shakes\nEmotion: fear & anxiety\nA:",
+    "output": "Yes, I can recall feeling fear when applying to colleges after second year the act of applying itself felt like a huge barrier due to my anxiety."
+  },
+  {
+    "input": "Q: A close friend is struggling but doesn't want to talk about it. How do you support them emotionally without pushing too hard?\nTone: supportive\nResponse Time: Slow (5-6 seconds)\nBody Language: soft expression\nEmotion: love & affection\nA:",
+    "output": "I let them know I'm there for them no matter what, and just stay close-whether that means being physically present or checking in gently over time."
+  },
+  {
+    "input": "Q: How do you typically express sadness? Like, do you talk about it, keep it inside, or show it through actions?\nTone: acceptance, disappointment\nResponse Time: Moderate (2-3 seconds)\nBody Language: looking upwards\nEmotion: sadness and grief\nA:",
+    "output": "I usually keep my sadness inside. I'm the kind of person who prefers to process emotions privately rather than sharing them openly."
+  },
+  {
+    "input": "Q: What strategies do you use to manage anxiety in stressful situations?\nTone: open, direct, matter of fact \nResponse Time: Moderate (4-5 seconds)\nBody Language: looks up, thinking, hand gestures \nEmotion: fear & anxiety\nA:",
+    "output": "To manage anxiety in stressful situations, I use strategies like counting numbers, recalling key points to stay focused, talking to others for perspective, and taking short breaks to process calmly."
+  },
+  {
+    "input": "Q: How do you build confidence when facing an unfamiliar situation or challenge?\nTone: informal, repetitive\nResponse Time: Fast (1-2 seconds)\nBody Language: standing taller, nodding\nEmotion: confidence and self belief\nA:",
+    "output": "To build confidence in unfamiliar situations, I draw strength from past successes and seek advice from people who've faced similar challenges."
+  },
+  {
+    "input": "Q: What's one emotional habit or reaction you have worked hard to change and how did you achieve that?\nTone: optimistic, decisive\nResponse Time: Moderate (3-4  Seconds)\nBody Language: hand gestures, slow shaking legs\nEmotion: emotional growth and self reflection\nA:",
+    "output": "Earlier, people would judge me based on my facial expressions. Now, I manage them-I mirror others to make them comfortable. It's like a social game: I give what they expect until they know me better, then I'm real."
+  },
+  {
+    "input": "Q: Can you describe a moment when you felt truly happy and fulfilled?\nTone: confident, calm\nResponse Time: Slow(5-6 seconds)\nBody Language: steady, eye contact\nEmotion: happiness and joy\nA:",
+    "output": "One moment when I truly felt happy and fulfilled was helping my mother complete my elder sister's project at midnight."
+  },
+  {
+    "input": "Q: What are some things in your life that you feel most grateful for?\nTone: direct, clear\nResponse Time: Fast (1-2 Seconds)\nBody Language: shakes legs, hand gestures\nEmotion: love & affection\nA:",
+    "output": "I feel most grateful for my brother, no question. My parents (even when they annoy me). My tight-knit friend group who've seen me at my worst and still answer my 3am calls."
+  },
+  {
+    "input": "Q: How do you build confidence when facing an unfamiliar situation or challenge?\nTone: matter of fact,direct\nResponse Time: Fast (1-2 seconds)\nBody Language: hand gestures, looks surroundings\nEmotion: confidence and self belief\nA:",
+    "output": "In unfamiliar situations, I remind myself that nobody starts perfect. I do my best knowing others might be struggling too."
+  },
+  {
+    "input": "Q: Can you recall a time when gratitude changed your perspective on the situation?\nTone: assured, matter of fact\nResponse Time: Fast (1-2 Seconds)\nBody Language: explaining with hands, blinking eyes\nEmotion: gratitude and contentment\nA:",
+    "output": "I can;t recall a specific moment right now, but I do believe gratitude has helped shift my perspective in many situations."
+  },
+  {
+    "input": "Q: How do you decide when to forgive someone who has hurt you?\nTone: truthful, calm\nResponse Time: Fast (1-2 seconds)\nBody Language: scratching her legs, bending down\nEmotion: anger & frustration",
+    "output": "When deciding to forgive someone who's hurt me, I go by a simple rule I give up to three chances. If I've expressed my concerns and they still don't change, I walk away. Staying would just be toxic."
+  },
+  {
+    "input": "Q: Can you share a time when you felt isolated, and how you overcame it?\nTone: direct\nResponse Time: Fast(1-2 seconds)\nBody Language: hands on shoulder, laughs\nEmotion: happiness and joy\nA:",
+    "output": "I honestly can't recall a time when I felt isolated my support system is too strong to let me feel that way."
+  },
+  {
+    "input": "Q: How do you express love and affection to the people who matter most to you?\nTone: playful\nResponse Time: Medium (3-4 seconds)\nBody Language: hand on chin, smile\nEmotion: love & affection\nA:",
+    "output": "I express love and affection to those who matter most by showing I care in fun ways, like surprising them with their favorite food or chocolates and listening to their worries with a big smile, making them feel special."
+  },
+  {
+    "input": "Q: How do you express love and affection to the people who matter most to you?\nTone: direct, expressive \nResponse Time: Moderate (3-4 seconds)\nBody Language: body to and fro, stammers\nEmotion: love & affection\nA:",
+    "output": "I express love and affection to those who matter by spending quality time with them, like playing games or making fun memories, pouring energy into moments that show I care deeply."
+  },
+  {
+    "input": "Q: What are the small things in life that bring you the most joy?\nTone: normal\nResponse Time: Moderate (3-4 Seconds)\nBody Language: direct answer, explains, explains more with hands\nEmotion: happiness and joy\nA:",
+    "output": "Good food, going on road trips, and trekking-those little experiences really bring me joy."
+  },
+  {
+    "input": "Q: You deeply care for someone, but they don't express emotions the same way you do. How do you navigate this difference in emotional communication?\nTone: positive, relaxed\nResponse Time: Fast (1-2 seconds)\nBody Language: thinks, look up, hand gesture, eye contact\nEmotion: emotional growth and self reflection\nA:",
+    "output": "First, I'd talk to them and explain how I express emotions and what I expect in return. If they respond and try to meet me halfway, great. But if they don't, then I try to step back and protect my emotional energy while still respecting the connection."
+  },
+  {
+    "input": "Q: How do you usually express happiness---through words, body language, or actions?\nTone: direct, friendly \nResponse Time: Fast (1-2 seconds)\nBody Language: looks up, eye contact \nEmotion: happiness and joy\nA:",
+    "output": "I express happiness directly and friendly by jumping with excitement or sharing my joy through words, connecting with eye contact as I let my energy spill out naturally."
+  },
+  {
+    "input": "Q: What typically triggers frustration or anger in you?\nTone: soft tone but firm\nResponse Time: Medium (3-4 seconds)\nBody Language: eyes widen, hand movement, eyebrow movement\nEmotion: anger & frustration\nA:",
+    "output": "What typically triggers my frustration is when someone keeps poking at small things or brings up the past repeatedly. Even if they're joking, it still gets to me if it's not kind."
+  },
+  {
+    "input": "Q: How do you handle situations where you want to forgive but find it difficult?\nTone: seeks dialogue\nResponse Time: Fast (1-2 seconds)\nBody Language: hand gestures, deep breath\nEmotion: love & affection\nA:",
+    "output": "In situations where I want to forgive but find it difficult, I'd have an honest conversation first. If they're genuinely remorseful, forgiveness becomes easier."
+  },
+  {
+    "input": "Q: How do you usually handle fear when facing something uncertain?\nTone: normal, solution-oriented\nResponse Time: Fast (1-2 seconds)\nBody Language: looks up briefly, taps fingers\nEmotion: fear & anxiety\nA:",
+    "output": "When facing uncertainty and fear, I talk to my parents for guidance and emotional support. If it's related to work or studies, I research the topic thoroughly to gain confidence and reduce uncertainty."
+  },
+  {
+    "input": "Q: Can you describe the time when you controlled your anger in a difficult situation?\nTone: introspective\nResponse Time: Slow (5-6 seconds)\nBody Language: looks away briefly\nEmotion: anger & frustration\nA:",
+    "output": "One time I controlled my anger was during a fight with someone. Instead of lashing out, I stayed quiet at first, then spoke logically once I was calm, which helped resolve the situation without escalating it further."
+  },
+  {
+    "input": "Q: What strategies do you use to manage anxiety in stressful situations?\nTone: calm, matter-of-fact\nResponse Time: Fast (1-2 seconds)\nBody Language: thinking gaze, reduced hand gestures, leg shakes\nEmotion: fear & anxiety\nA:",
+    "output": "To manage anxiety in stressful situations, I take a few deep breaths it usually helps center me quickly."
+  },
+  {
+    "input": "Q: Can you describe the time when you controlled your anger in a difficult situation?\nTone: explanatory\nResponse Time: slow(5-6 seconds)\nBody Language: touching hair, looks away\nEmotion: anger & frustration\nA:",
+    "output": "One time I controlled my anger in a difficult situation was in school when friends criticized my temper. After that, I worked hard to stay calm, process my feelings, and avoid reacting impulsively."
+  },
+  {
+    "input": "Q: What's the first thing you notice in your behavior when you're under significant stress?\nTone: honest, direct\nResponse Time: Fast(1-2 seconds)\nBody Language: looks up, touching hair, hand gestures\nEmotion: fear & anxiety\nA:",
+    "output": "When I'm under significant stress, the first thing I notice is nail-biting or zoning out either I hyper-focus or completely distract myself to avoid the stressor."
+  },
+  {
+    "input": "Q: How do you typically express sadness-do you talk about it, keep it inside, or show it through actions?\nTone: straight forward\nResponse Time: Fast (1-2 seconds)\nBody Language: smiles, eye contact\nEmotion: sadness and grief\nA:",
+    "output": "I usually talk about it with my close family. If it's something small, I just watch a comedy movie, listen to music, or talk to myself-it really helps me feel better."
+  },
+  {
+    "input": "Q: What are the small things in life that bring you the most joy?\nTone: exploratory, casual, reflective \nResponse Time: Moderate (4-5 seconds) \nBody Language: looks up thinking, shoulder movements \nEmotion: happiness and joy\nA:",
+    "output": "The small things that bring me joy are casual moments, like hanging out with loved ones or enjoying activities such as dancing or games. Reflecting as my shoulders shift, I explore how these connections make life feel vibrant and meaningful."
+  },
+  {
+    "input": "Q: Can you share a time when you experienced deep sadness? How did you cope?\nTone: introspective\nResponse Time: Fast (1-2 seconds)\nBody Language: looks up, thinking, head movements, eyebrow movement \nEmotion: sadness and grief\nA:",
+    "output": "I haven't felt deep sadness often, but when I'm upset, I turn introspective, furrowing my brow as I look up. I cope quickly by talking to the person involved, sorting out the issue to lift the weight and find clarity."
+  },
+  {
+    "input": "Q: Looking back, how would you handle a past emotional reaction differently now?\nTone: warm\nResponse Time: Moderate (3-4 seconds)\nBody Language: small smile\nEmotion: emotional growth and self reflection\nA:",
+    "output": "Looking back at past emotional reactions, I would handle them differently by taking a more mature and forward-thinking approach. I've learned that staying calm and considering the bigger picture leads to better outcomes."
+  },
+  {
+    "input": "Q: When making a difficult decision, how do you separate emotional impulses from rational thought?\nTone: thoughtful\nResponse Time: Fast(1-2 seconds)\nBody Language: hand gestures, leans back, eyes widened\nEmotion: neutral\nA:",
+    "output": "When making a difficult decision, I separate emotional impulses from rational thought by weighing pros and cons logically first. Rational decisions last longer emotions are fleeting."
+  },
+  {
+    "input": "Q: How do you usually express happiness through words, body language, or actions?\nTone: direct\nResponse Time: Fast (1-2 seconds)\nBody Language: steady\nEmotion: happiness and joy\nA:",
+    "output": "It's a mix of everything-my words, my smile, how I move. You can tell when I'm happy."
+  },
+  {
+    "input": "Q: Can you think of a time when you misjudged someone's emotions or what led to the misunderstanding?\nTone: clear\nResponse Time: Fast (1-2 seconds)\nBody Language: hand gestures\nEmotion: neutral\nA:",
+    "output": "I can't recall any specific instance right now where I misjudged someone's emotions."
+  },
+  {
+    "input": "Q: If you are in a crowded room but still feel lonely, how do you process and address this feeling?\nTone: strongly, confident\nResponse Time: Moderate (3-4 seconds)\nBody Language: looks down\nEmotion: happiness and joy\nA:",
+    "output": "If I feel lonely in a crowded room, I try to engage with friends and have fun. If that doesn't help, I accept the feeling and try to enjoy the moment anyway."
+  },
+  {
+    "input": "Q: What helps you move forward when dealing with emotional pain?\nTone: casual, matter-of-fact\nResponse Time: Fast (1-2 seconds)\nBody Language: direct eye contact\nEmotion: happiness and joy\nA:",
+    "output": "To move forward from emotional pain, I usually watch movies or anime to reset my mind."
+  },
+  {
+    "input": "Q: What's one emotional habit you've worked hard to change? How did you achieve it?\nTone: thinking\nResponse Time: Fast (1-2 seconds)\nBody Language: eyes down, lips pow\nEmotion: emotional growth and self reflection\nA:",
+    "output": "I used to cry a lot, even for small things. But over the years, I've tried to stay calmer and manage that better. It wasn't easy, but I think I've really improved."
+  },
+  {
+    "input": "Q: Can you share a time when you experienced deep sadness in college?\nTone: sad, open\nResponse Time: Fast(1-2 seconds)\nBody Language: hand gestures, rubbing palm\nEmotion: sadness and grief\nA:",
+    "output": "A time when I experienced deep sadness in college was during moments of personal struggle. Like any normal student, I tried different ways to cope with the sadness spending time alone and focusing on self-improvement helped me get through those tough times."
+  },
+  {
+    "input": "Q: How do you usually express happiness through words, body language, or actions?\nTone: confident\nResponse Time: Moderate (5-6 seconds)\nBody Language: trying to find words\nEmotion: happiness and joy\nA:",
+    "output": "I usually express happiness through actions like smiling, laughing, and getting physically excited, especially when I share the joy with others."
+  },
+  {
+    "input": "Q: Can you describe a situation where opening up about your emotions helped you grow as a person?\nTone: honest, proud\nResponse Time: Fast(1-2 seconds)\nBody Language: squirting eyes, looks around, nods head, hand gestures\nEmotion: happiness and joy\nA:",
+    "output": "Opening up about my happiness once just sharing how much I was enjoying life made others around me laugh, and that showed me how positivity can ripple outward. It helped me grow by realizing the impact of sharing emotions."
+  },
+  {
+    "input": "Q: What role do gestures and facial expressions play in how you interpret someone's emotion during conversation?\nTone: explanatory, thinking\nResponse Time: Fast(1-2 seconds)\nBody Language: folding hands, looks around\nEmotion: happiness and joy\nA:",
+    "output": "Gestures and facial expressions play a huge role in how I interpret someone's emotions. Sometimes, even if someone doesn't say much, their eyebrows, lips, or small gestures tell me exactly what they're feeling."
+  },
+  {
+    "input": "Q: If in a scenario where you deeply care for someone but they don't express emotions the way you do, how do you navigate the difference and maintain control?\nTone: open, explanatory\nResponse Time: Fast(1-2 seconds)\nBody Language: hand gestures, eye contact\nEmotion: love & affection\nA:",
+    "output": "When I deeply care for someone who doesn't express emotions the way I do, I believe the best approach is to talk it out. Sitting down and having a mature conversation helps both parties understand each other better and resolve any misunderstandings."
+  },
+  {
+    "input": "Q: Have you ever struggled with letting go of a past hurt? How did you manage it?\nTone: introspective, determined\nResponse Time: Slow (5-6 seconds)\nBody Language: thinking gaze, smiling, hand gestures, leg shakes\nEmotion: emotional growth and self reflection\nA:",
+    "output": "Yes, I've struggled with letting go of the past for like one or two years. I managed it by talking about it to other people and opening up about it."
+  },
+  {
+    "input": "Q: How do you adjust your nonverbal cues like body language and facial expressions to make others feel more comfortable?\nTone: thinking, casual\nResponse Time: Moderate(3-4 Seconds)\nBody Language: hand gestures, shaking legs\nEmotion: confidence and self belief\nA:",
+    "output": "I try to stay calm and confident-slow, steady voice and relaxed body language. If I show that I'm comfortable and in control, it helps others feel safe around me. That builds trust and opens up better communication."
+  },
+  {
+    "input": "Q: Can you recall a time when you surprised yourself with your confidence?\nTone: thoughtful, motivated \nResponse Time: Moderate (4-5 seconds)\nBody Language: looks up thinking, eyebrows up, body movement, eye contact\nEmotion: confidence and self belief\nA:",
+    "output": "I surprised myself with confidence when I danced at an event, despite doubting my skills. I pushed through and discovered I was actually good, which motivated me to trust myself more."
+  },
+  {
+    "input": "Q: If you accidentally hurt someone emotionally and they haven't confronted you about it, do you address it and how?\nTone: nervous laugh, sighs\nResponse Time: Moderate (2-3 seconds)\nBody Language: hand gestures\nEmotion: emotional growth and self reflection\nA:",
+    "output": "Yes. If I realize I've hurt someone emotionally, I take the first step to address it by admitting my mistake. Acknowledging your mistake shows you're conscious of your actions and helps rebuild trust."
+  },
+  {
+    "input": "Q: You have to make a high-stakes decision, but your emotions and logic are pulling you in different directions. How do you resolve this internal conflict?\nTone: doubtful\nResponse Time: Moderate (3-4 seconds)\nBody Language: thoughtful\nEmotion: love & affection\nA:",
+    "output": "For a high-stakes decision where emotions and logic conflict, I resolve it by talking to my family for their insights and praying to God for guidance, which helps me find clarity."
+  },
+  {
+    "input": "Q: Can you recall a time when you surprised yourself with confidence?\nTone: confident\nResponse Time: Fast (1-2 seconds)\nBody Language: thinking, hand gestures, moving around\nEmotion: confidence and self belief\nA:",
+    "output": "Just yesterday-I had to submit two major assignments right after reaching university, and somehow I managed to complete everything on time, including a chemistry practical and ten PSUC assignments."
+  },
+  {
+    "input": "Q: When making a difficult decision, how do you separate emotional impulses from rational thought?\nTone: sad, explanatory,open\nResponse Time: Slow(5-6 seconds)\nBody Language: tucking her hair,hand gestures,looks up,touching chin\nEmotion: happiness and joy\nA:",
+    "output": "When making a difficult decision, I separate emotional impulses from rational thought by weighing both my heart and logic. I consider what's best long-term, and if logic outweighs emotions for future benefits, I prioritize it, even if it's tough emotionally."
+  },
+  {
+    "input": "Q: If you deeply care for someone but they don't express emotions the way you do, how do you navigate this difference in emotional communication?\nTone: careful, trustful\nResponse Time: Moderate (3-4 seconds)\nBody Language: thinks, speaks whole thing\nEmotion: love & affection\nA:",
+    "output": "Usually, when they don't open up, I try to communicate with them in my way. If they still don't respond, I give them space and try to understand their way of expressing emotions. If I know them well, I will make an effort to connect with them on their terms. But if I don't know them well, I won't push too much."
+  },
+  {
+    "input": "Q: How do you adjust your non-verbal cues (e.g., body language, facial expressions) to make others feel more comfortable?\nTone: explanatory, thoughtful\nResponse Time: Fast (1-2 seconds)\nBody Language: hand gesture, eye contact\nEmotion: happiness and joy\nA:",
+    "output": "If someone's close to me, they'll pick up on my body language. But I try to stay relaxed and warm so others feel safe around me."
+  },
+  {
+    "input": "Q: You are in a heated argument and realize the other person is misunderstanding your emotions. How do you handle the situation?\nTone: introspective\nResponse Time: Moderate(3-4 seconds)\nBody Language: nods head, pauses\nEmotion: neutral\nA:",
+    "output": "In a heated argument, I pause and nod introspectively when I see they're misreading me. I assess the flow, steer the conversation calmly, and clarify my perspective to bridge the gap."
+  },
+  {
+    "input": "Q: Can you think of a time when you misjudged someone's emotions? What led to the misunderstanding?\nTone: direct\nResponse Time: Fast(1-2 seconds)\nBody Language: smiles\nEmotion: neutral\nA:",
+    "output": "I can't recall a specific time when I misjudged someone's emotions."
+  },
+  {
+    "input": "Q: What's a lesson you've learned from a past mistake?\nTone: confident\nResponse Time: Moderate (3-4 seconds)\nBody Language: eye contact\nEmotion: emotional growth and self reflection\nA:",
+    "output": "I've learned to be more flexible with my approach and to absorb positive qualities from people around me and use them in my own way of working."
+  },
+  {
+    "input": "Q: How do you practice gratitude in your daily life?\nTone: direct\nResponse Time: Fast(1-2 seconds)\nBody Language: eye contact, hand gestures\nEmotion: gratitude and contentment\nA:",
+    "output": "I try to express my gratitude openly. Whether it's a small gesture or something big, I make sure to say I'm thankful for this' to let others know I appreciate them."
+  },
+  {
+    "input": "Q: You are in a crowded room, but still feel alone. How do you process and address this feeling?\nTone: hesitant\nResponse Time: Slow (5-6 seconds)\nBody Language: itches nose, looks down, hand moves, playing with t-shirt\nEmotion: emotional growth and self reflection\nA:",
+    "output": "When I feel alone in a crowded room, I process it by trying to engage with the crowd, finding ways to involve myself in conversations or activities to feel more connected."
+  },
+  {
+    "input": "Q: You look back at a past emotional reaction and realize you would handle it differently now. What changed in your emotional approach?\nTone: casual, calm tone\nResponse Time: Fast (1-2 seconds)\nBody Language: look at her, hand gesture, smiles\nEmotion: emotional growth and self reflection\nA:",
+    "output": "Looking back at a past emotional reaction, I'd handle it differently now because I've grown emotionally, reacting more slowly and understanding situations better, though I wouldn't change the past."
+  },
+  {
+    "input": "Q: Can you share a time when you experienced deep sadness? How did you cope?\nTone: direct\nResponse Time: moderate(3-4 seconds)\nBody Language: looks straight, hand movements\nEmotion: sadness and grief\nA:",
+    "output": "A time I experienced deep sadness was tough to process, but I coped by throwing myself into work and prioritizing my goals and loved ones. Focusing on what mattered most helped me redirect my energy away from the pain and toward growth."
+  },
+  {
+    "input": "Q: How do you usually handle fear when facing something new or uncertain?\nTone: calm, firm\nResponse Time: Fast (1-2 Seconds)\nBody Language: hand gestures, nods head \nEmotion: confidence and self belief\nA:",
+    "output": "I don't overthink it. I just go for it and trust myself to handle it when it happens. I face it when it comes rather than stressing in advance."
+  },
+  {
+    "input": "Q: What typically triggers frustration or anger in you?\nTone: direct , matter of fact \nResponse Time: Moderate (3-4 seconds)\nBody Language: hand gestures, looks surroundings,head movements\nEmotion: anger & frustration\nA:",
+    "output": "I get frustrated when I carefully plan something and it doesn't go how I expected and I struggle to adapt quickly."
+  },
+  {
+    "input": "Q: You accidentally hurt someone emotionally, and they haven't confronted you. Do you address it?\nTone: says real facts\nResponse Time: Medium\nBody Language: hand movement, lips gestures\nEmotion: guilt and regret\nA:",
+    "output": "Yes. If I'm aware of it, I apologize and try to make it right. If I realize it later, the guilt stays with me until I can make amends."
+  },
+  {
+    "input": "Q: What are the small things in life that bring you the most joy?\nTone: composed tone\nResponse Time: Moderate (3-4 seconds)\nBody Language: finger at mouth, hand gesture\nEmotion: happiness and joy\nA:",
+    "output": "Some small things in life that bring me the most joy include seeing something organized or clean, hearing someone speak kindly, enjoying nice weather, and noticing leaves on the ground."
+  },
+  {
+    "input": "Q: Can you recall a time when fear or anxiety stopped you from taking action?\nTone: casual, positive\nResponse Time: Fast (1-2 seconds)\nBody Language: charming, thoughtful\nEmotion: fear & anxiety\nA:",
+    "output": "Yes, I can recall many times when fear or anxiety stopped me from taking action. For example, today, I had to go somewhere but decided not to because of my anxiety I often overthink the consequences."
+  },
+  {
+    "input": "Q: What's one decision you've made that was heavily influenced by emotions, but in hindsight, you're glad you trusted your feelings?\nTone: thoughtful, optimistic\nResponse Time: Fast (1-2 seconds)\nBody Language: smiles, move head\nEmotion: empathy and understanding others\nA:",
+    "output": "One decision I made that was heavily influenced by emotions was how I handled relationships with people. I leaned on my feelings rather than logic, and in hindsight, I'm glad I trusted my emotions because I realized connecting with people often requires empathy and understanding more than cold reasoning."
+  },
+  {
+    "input": "Q: What's one emotional habit or reaction you've worked hard to change? How did you achieve it?\nTone: calm, clear, thoughtful, explanatory\nResponse Time: Fast (1-2 Seconds)\nBody Language: looks down, hand gestures, laughs\nEmotion: anger & frustration\nA:",
+    "output": "One emotional habit I've worked to change is my tendency to react with anger when interrupted. I've learned to pause, breathe, and respond more calmly by reminding myself that not every interruption is personal."
+  },
+  {
+    "input": "Q: You look back at a past emotional reaction and realize you would handle it differently now. What changed in your emotional approach?\nTone: matter-of-fact, simple\nResponse Time: Fast (1-2 seconds)\nBody Language: hand at face slightly, hand gesture\nEmotion: emotional growth and self reflection\nA:",
+    "output": "Looking back at past emotional reactions, I realize I'd handle them differently now because I've learned to stay calm. Before, I might've shouted or pushed my views when worked up, but now I listen better and avoid rash responses."
+  },
+  {
+    "input": "Q: How do you decide when to forgive someone who has hurt you?\nTone: direct, careful \nResponse Time: Moderate (3-4 seconds)\nBody Language: hand gestures, looks up \nEmotion: emotional growth and self reflection\nA:",
+    "output": "I decide to forgive carefully when their apology feels genuine, gesturing directly as I consider their sincerity. If their actions match their words, I let go of the hurt to move forward."
+  },
+  {
+    "input": "Q: How do you recognize and regulate anger before it escalates?\nTone: direct, casual\nResponse Time: Fast(1-2 seconds)\nBody Language: eye contact\nEmotion: anger & frustration\nA:",
+    "output": "I spot anger when I feel tense, and I regulate it casually by calming myself with a deep breath, thinking clearly before I snap, keeping direct eye contact to stay grounded."
+  },
+  {
+    "input": "Q: How do you handle situations where you want to forgive but find it difficult?\nTone: thoughtful decision\nResponse Time: Slow (5-6 seconds)\nBody Language: looks somewhere, thinking\nEmotion: emotional growth and self reflection\nA:",
+    "output": "If enough time passes, it gets easier. But for something serious, it stays in my mind-I keep thinking about it before I can forgive."
+  },
+  {
+    "input": "Q: How do you handle situations where you feel self-doubt is kicking in?\nTone: calm, explanatory\nResponse Time: Moderate(3-4 seconds)\nBody Language: hand gestures, raises eyebrows\nEmotion: emotional growth and self reflection\nA:",
+    "output": "When self-doubt kicks in, I try to stop myself and focus on my mindset at that moment. If I have a strong mindset, I can overcome the doubt and move forward. However, if my mindset isn't strong, I often find myself falling back into negative thoughts and needing more time to regain confidence."
+  },
+  {
+    "input": "Q: Looking back, how would you handle a past emotional reaction differently now?\nTone: warm\nResponse Time: Moderate (3-4 seconds)\nBody Language: small smile\nEmotion: emotional growth and self reflection\nA:",
+    "output": "Looking back at past emotional reactions, I would handle them differently by taking a more mature and forward-thinking approach. I've learned that staying calm and considering the bigger picture leads to better outcomes."
+  },
+  {
+    "input": "Q: Can you recall a time when you surprised yourself with your confidence?\nTone: soft but sad\nResponse Time: Slow (5-6 seconds)\nBody Language: lips twitched\nEmotion: emotional growth and self reflection\nA:",
+    "output": "Honestly, I can't remember a moment where I really surprised myself with confidence. Maybe it hasn't happened yet, or maybe I didn't notice it when it did."
+  },
+  {
+    "input": "Q: What are some things in your life that you feel most grateful for?\nTone: matter-of-fact\nResponse Time: Moderate (3-4 seconds)\nBody Language: thinking and breathing heavily, looking down\nEmotion: gratitude and contentment\nA:",
+    "output": "I feel most grateful for being at a prestigious college, the education I've received, living abroad and experiencing unique things, and having my family, grandparents, and friends in my life."
+  },
+  {
+    "input": "Q: How do you usually express happiness---through words, body language, or actions?\nTone: composed way\nResponse Time: Fast (1-2 seconds)\nBody Language: hand gesture\nEmotion: happiness and joy\nA:",
+    "output": "I usually express happiness through actions. When I'm very happy, I get fidgety and my movements show my excitement."
+  },
+  {
+    "input": "Q: How do you adjust your non-verbal cues (e.g., body language, facial expressions) to make others feel more comfortable?\nTone: doubtful , direct\nResponse Time: Moderate(3-4 seconds)\nBody Language: looking up , playing with hair\nEmotion: happiness and joy\nA:",
+    "output": "I don't often change my non-verbal cues to make others comfortable, as I prefer being myself. But if I sense someone's uneasy, I might soften my expressions or use calmer gestures to create a more welcoming vibe without losing my authenticity."
+  },
+  {
+    "input": "Q: When making a difficult decision, how do you separate emotional impulses from rational thought?\nTone: logical, introspective\nResponse Time: Fast (1-2 seconds)\nBody Language: deep thinking, hand gestures, upward gaze\nEmotion: neutral\nA:",
+    "output": "To separate emotion from reason, I sit down and think logically. If logic doesn't hold up, then I might let emotion guide me."
+  },
+  {
+    "input": "Q: How do you navigate situations where your emotional intuition contradicts the logical choice?\nTone: open, casual flow\nResponse Time: Medium (3-4 seconds)\nBody Language: smiles, hand gesture\nEmotion: emotional growth and self reflection\nA:",
+    "output": "When my emotional intuition contradicts the logical choice, I first assess whether the situation calls for an emotional or logical response. If I feel it needs my emotional perspective, I'll share that openly and then figure out how to balance it with what makes sense logically."
+  },
+  {
+    "input": "Q: You achieve something great, but those around you don't seem to acknowledge it. How does this affect your happiness, and how do you handle it?\nTone: affirmation, calm\nResponse Time: Fast(1-2 seconds)\nBody Language: eye contact, hand gestures, nods head\nEmotion: happiness and joy\nA:",
+    "output": "It stings a bit when my achievement's ignored, but I stay calm, nodding with eye contact. I affirm my pride and celebrate with close friends who get it, keeping my happiness strong."
+  },
+  {
+    "input": "Q: Can you describe a time when you controlled your anger in a difficult situation?\nTone: direct, truthful\nResponse Time: Fast(1-2 seconds)\nBody Language: hand and head movements, smiles\nEmotion: anger & frustration\nA:",
+    "output": "Yes, I can describe a time I controlled my anger in a difficult situation I rarely get extremely angry, but when I do, I go silent. Later, I confront the person calmly about what bothered me."
+  },
+  {
+    "input": "Q: How do you typically express sadness---do you talk about it, keep it inside, or show it through actions?\nTone: direct, matter of fact, straightforward \nResponse Time: Moderate(3-4 seconds)\nBody Language: looks away thinking, shoulder movement\nEmotion: sadness and grief\nA:",
+    "output": "I express sadness straightforwardly by keeping it inside at first, shrugging slightly as I think. Later, I directly discuss it with the person involved, matter-of-factly addressing what's bothering me to find resolution."
+  },
+  {
+    "input": "Q: Can you share a time when you experienced deep sadness?\nTone: direct\nResponse Time: Fast (1-2 seconds)\nBody Language: calm\nEmotion: sadness and grief\nA:",
+    "output": "Yes, when my Nana ji passed away recently. That hit me deeply."
+  },
+  {
+    "input": "Q: You're in a situation where multiple things are going wrong at once. How do you prioritize managing your emotions while solving the issues at hand?\nTone: calm\nResponse Time: Fast (1-2 seconds)\nBody Language: hand moment, touching face\nEmotion: emotional growth and self reflection\nA:",
+    "output": "I break things down one by one. If I feel overwhelmed, I reach out for help-but I try to stay focused on what I can fix first."
+  },
+  {
+    "input": "Q: You achieve something great, but people around you don't acknowledge it. How does this affect you?\nTone: direct\nResponse Time: Fast (1-2 seconds)\nBody Language: smiling, eye contact\nEmotion: love & affection\nA:",
+    "output": "It doesn't bother me much. The people who truly care about me will recognize it-and that's what really matters."
+  },
+  {
+    "input": "Q: Can you recall a time when you unintentionally revealed your emotions through tone/body language? How did others respond?\nTone: soft, careful\nResponse Time: Fast (1-2 seconds)\nBody Language: looking up, eyes widen, looking down\nEmotion: love & affection\nA:",
+    "output": "Yeah, it's happened a lot, actually. Even when I tried to hide it, my close ones could tell. And they didn't make me feel bad-they comforted me, pampered me. That made me feel really seen and loved."
+  },
+  {
+    "input": "Q: What helps you move forward when dealing with emotional pain?\nTone: thoughtful\nResponse Time: Moderate (3-4 seconds)\nBody Language: thinks about not answering, looks\nEmotion: emotional growth and self reflection\nA:",
+    "output": "What helps me move forward during emotional pain is telling myself that time will make things better. Even if it doesn't get better right away, I remind myself I have to keep going because that's life."
+  },
+  {
+    "input": "Q: What strategies do you use to manage anxiety in stressful situations?\nTone: direct, enthusiastic\nResponse Time: Fast (1-2 seconds)\nBody Language: smile, hand movement\nEmotion: fear & anxiety\nA:",
+    "output": "To manage anxiety, I rely on painting, listening to music or podcasts, talking to loved ones, sipping coffee, watching movies or just stepping into nature."
+  },
+  {
+    "input": "Q: If a friend's body language is closed off but they insist they are fine, how do you navigate the situation?\nTone: positive\nResponse Time: Slow (5-6 seconds)\nBody Language: laughs\nEmotion: empathy and understanding others\nA:",
+    "output": "If a friend's body language is closed off but they insist they're fine, I gently ask them about what's bothering them multiple times until they feel comfortable opening up. I avoid pressuring them but ensure they know I'm there to listen."
+  },
+  {
+    "input": "Q: How do you practice gratitude in your daily life?\nTone: under-confident, stammers, explanatory\nResponse Time: Fast (1-2 Seconds)\nBody Language: looks somewhere, hand gestures\nEmotion: gratitude and contentment\nA:",
+    "output": "I express gratitude in my daily life by pausing during walks to really notice things like the trees, sky, or even cool street art. Even when eating bad food at the dining hall, I remind myself how much worse meals used to be at my old PG. Perspective grounds me."
+  },
+  {
+    "input": "Q: How do you handle situations where you want to forgive, but you find it very difficult?\nTone: calm, clear\nResponse Time: Slow (3-4 seconds)\nBody Language: hand gestures\nEmotion: empathy and understanding others\nA:",
+    "output": "When forgiveness feels difficult, I try to think from their perspective. I analyze their intentions whether what they did was right or wrong and decide based on that."
+  },
+  {
+    "input": "Q: What's one way you show empathy when words aren't enough?\nTone: caring, casual\nResponse Time: Fast (1-2 seconds)\nBody Language: looks interviewer listening to questions, answers looking down , head movements explaining answers, body movement to and fro , hand gestures , shakes legs slightly \nEmotion: empathy and understanding others\nA:",
+    "output": "When words aren't enough, I show empathy through actions like cooking for someone or just being physically present to support them."
+  },
+  {
+    "input": "Q: You receive bad news, but are in a situation where you must remain composed. How do you manage your sadness while maintaining control?\nTone: direct\nResponse Time: slow(5-6 seconds)\nBody Language: looks up, hand and head gestures\nEmotion: sadness and grief\nA:",
+    "output": "If I receive bad news and must stay composed, I honestly struggle. I'm not good at compartmentalizing it's all or nothing emotionally."
+  },
+  {
+    "input": "Q: What are some things in your life that you feel most grateful for?\nTone: truth, gratitude\nResponse Time: Fast (1-2 seconds)\nBody Language: scratching heads, head tilted\nEmotion: gratitude and contentment",
+    "output": "There are many things I feel grateful for like having food, access to small luxuries, and supportive parents who guide me when I go wrong. Comparing myself to those less fortunate helps me stay grounded."
+  },
+  {
+    "input": "Q: Have you ever made a decision that you deeply regretted? How did you handle it?\nTone: thoughtful, reflective\nResponse Time: Fast (1-2 seconds)\nBody Language: smiles heavily, looks here and there, hand gesture, exploring\nEmotion: emotional growth and self reflection\nA:",
+    "output": "When I think about decisions I deeply regretted, I've had a few, but I handle it by reminding myself that everyone makes mistakes. I tell myself I'm learning from those choices. Where I am now is because of those mistakes, and that's okay-it's part of life. I just carry on, knowing it's a normal part of growing."
+  },
+  {
+    "input": "Q: Have you ever struggled with letting go of a past hurt? How did you manage it?\nTone: clear, very explanatory, thoughtful, in doubt\nResponse Time: Slow (5-6 Seconds)\nBody Language: looks down, asks to repeat, irregular eye contact\nEmotion: anger & frustration\nA:",
+    "output": "Yes, I once held on to a best friend's betrayal for almost a year. Eventually, I wrote everything I felt into a letter and burned it. It sounds dramatic, but that act really helped me release the anger and let go."
+  },
+  {
+    "input": "Q: When making a difficult decision, how do you separate emotional impulses from rational thought?\nTone: direct\nResponse Time: fast\nBody Language: hand movement\nEmotion: love & affection\nA:",
+    "output": "When I have to separate emotion from logic in a tough decision, I turn to my father. He helps me step back, assess things clearly, and see where emotion is clouding reason."
+  },
+  {
+    "input": "Q: How do you decide whether to share stress with others or keep it to yourself?\nTone: fact, direct\nResponse Time: fast\nBody Language: hand movement, head movement\nEmotion: neutral\nA:",
+    "output": "I share stress if I know it won't burden them. But if it involves someone they're close to or might make things heavier for them, I keep it to myself and manage quietly."
+  },
+  {
+    "input": "Q: How do you ensure that you are truly listening to someone during an emotional conversation?\nTone: reflective, empathetic\nResponse Time: Moderate (2-3 Seconds)\nBody Language: hand gestures\nEmotion: emotional growth and self reflection\nA:",
+    "output": "To ensure I'm truly listening during emotional conversations, I stay engaged. I understand when it's time to listen quietly and when it's time to respond. I analyze what's being said and give them feedback so they know I'm genuinely hearing them."
+  },
+  {
+    "input": "Q: How do you cope with feelings of guilt when you feel you've wronged someone?\nTone: direct\nResponse Time: Fast (1-2 seconds)\nBody Language: looks into eyes, hand gesture\nEmotion: guilt and regret\nA:",
+    "output": "I usually say sorry and try to make it up to them-with words or thoughtful gestures."
+  },
+  {
+    "input": "Q: Have you ever made a decision that you deeply regretted? How did you handle it?\nTone: matter of fact, assured\nResponse Time: Fast (1-2 seconds)\nBody Language: looks down, head gestures\nEmotion: emotional growth and self reflection\nA:",
+    "output": "I've made choices I wasn't proud of, but I believe in learning and moving on instead of dwelling on regret."
+  },
+  {
+    "input": "Q: What are some things in your life that you feel most grateful for?\nTone: truthful,calm, soft\nResponse Time: Fast(1-2 seconds)\nBody Language: rubbing hands, looks up\nEmotion: gratitude and contentment\nA:",
+    "output": "I feel most grateful for the small things in my life, like the support from my parents, the bonds I've built with friends, and even the lessons from tough moments. Keeping a gratitude diary helped me notice these details and appreciate them deeply."
+  },
+  {
+    "input": "Q: How do you handle wanting to forgive but finding it difficult?\nTone: thoughtful, direct\nResponse Time: Fast (1-2 seconds)\nBody Language: smiling\nEmotion: anger & frustration\nA:",
+    "output": "In the moment, I just avoid conflict and walk away-but later I realize I'm still holding on and find it hard to let go completely."
+  },
+  {
+    "input": "Q: You receive bad news, but are in a situation where you must remain composed. How do you manage your sadness while maintaining control?\nTone: uncertain, admits lack of strategy\nResponse Time: Slow (5-6 seconds)\nBody Language: deep breath, clenched jaw\nEmotion: neutral\nA:",
+    "output": "If I receive bad news but need to remain composed, I'd focus on the immediate task, saving emotional processing for when I'm in private."
+  },
+  {
+    "input": "Q: What strategies do you use to manage anxiety in stressful situations?\nTone: calm, direct\nResponse Time: Fast (1-2 seconds)\nBody Language: hand gesture, eye contact\nEmotion: fear & anxiety\nA:",
+    "output": "I stay calm by either chanting, breathing deeply, or distracting myself with something positive."
+  },
+  {
+    "input": "Q: How do you navigate situations where your emotional intuition contradicts the logical choice?\nTone: over thinking, acceptance\nResponse Time: Slow (5-6 seconds)\nBody Language: looks somewhere\nEmotion: love & affection\nA:",
+    "output": "When emotional intuition contradicts logic, I tend to prioritize emotions, even if it leads to problems. I accept the risks and learn from the outcomes."
+  },
+  {
+    "input": "Q: How would you describe your personality and what defines you?\nTone: slow\nResponse Time: Fast (1-2 seconds)\nBody Language: firm, looking, slow\nEmotion: happiness and joy\nA:",
+    "output": "I would describe myself as a very jolly person I'm cheerful and friendly with people, and I tend to get along with others quickly."
+  },
+  {
+    "input": "Q: How do you decide when to forgive someone who has hurt you?\nTone: optimistic, thoughtful\nResponse Time: Fast (1-2 seconds)\nBody Language: moves head, looks at her, and down\nEmotion: love & affection\nA:",
+    "output": "I decide to forgive someone who has hurt me when I see they're genuinely sorry. If they come to me and apologize, I'll forgive them, knowing everyone makes mistakes. I've made mistakes too, so I understand it's human to err, and I choose forgiveness if their apology feels sincere."
+  },
+  {
+    "input": "Q: If someone who hurt you in the past comes back into your life and apologizes, how do you determine whether to forgive them?\nTone: firm, truthful\nResponse Time: Fast (1-2 seconds)\nBody Language: scratching ankles, widen eyes\nEmotion: emotional growth and self reflection",
+    "output": "If someone who hurt me in the past comes back and apologizes, I listen to their explanation. If it feels genuine and convincing, I forgive them even though I know my tendency to forgive easily sometimes gets me hurt again."
+  },
+  {
+    "input": "Q: Can you share a time when you felt isolated, and how you overcame it?\nTone: calm\nResponse Time: moderate(3-4 seconds)\nBody Language: looks down,touches hair\nEmotion: emotional growth and self reflection\nA:",
+    "output": "A time I felt isolated, I overcame it by keeping myself busy with productive tasks. Instead of dwelling on the loneliness, I focused on doing something meaningful, which helped me feel purposeful and connected again."
+  },
+  {
+    "input": "Q: How do you build confidence when facing an unfamiliar situational challenge?\nTone: calm\nResponse Time: Moderate (3-4 seconds)\nBody Language: looking somewhere, thinking\nEmotion: confidence and self belief\nA:",
+    "output": "To build confidence in unfamiliar situations, I remind myself of my strengths and past achievements. Reflecting on what I've accomplished gives me the motivation to face new challenges."
+  },
+  {
+    "input": "Q: You're surrounded by highly accomplished individuals and start feeling inadequate. How do you shift your mindset?\nTone: calm\nResponse Time: Fast (1-2 seconds)\nBody Language: thinking, leg movements\nEmotion: emotional growth and self reflection\nA:",
+    "output": "At first, I go quiet and observe because I feel they know more. But after a while, I start joining the conversation and engaging like I belong there."
+  },
+  {
+    "input": "Q: You receive bad news, but are in a situation where you must remain composed. How do you manage your sadness while maintaining control?\nTone: thinking so much\nResponse Time: Slow (5-6 seconds)\nBody Language: looks down, nods head, negative\nEmotion: sadness and grief\nA:",
+    "output": "I haven't faced a situation where I received bad news and had to stay composed, so I can't recall how I'd manage it, but I'd likely try to stay calm and process it later."
+  },
+  {
+    "input": "Q: How do you handle situations where self-doubt kicks in?\nTone: casual\nResponse Time: Slow (5-6 seconds)\nBody Language: rubbing hand, thinking\nEmotion: confidence and self belief\nA:",
+    "output": "When self-doubt creeps in, I remind myself of past successes and sometimes talk to someone I trust to get perspective."
+  },
+  {
+    "input": "Q: Can you recall a time when gratitude changed your perspective on a situation?\nTone: nervous laugh, clear\nResponse Time: Fast (1-2 seconds)\nBody Language: eye contact, hand gestures, looks down\nEmotion: gratitude and contentment\nA:",
+    "output": "A time when gratitude changed my perspective was during an event with an NGO that feeds children living on the roadsides. Seeing how grateful they were for something as basic as food made me realize how much I take for granted. It taught me to appreciate the small things in life."
+  },
+  {
+    "input": "Q: How do you balance your emotional needs with practical responsibilities during stressful times?\nTone: lighthearted, matter-of-fact\nResponse Time: Fast (1-2 seconds)\nBody Language: thinking gaze, hand gestures\nEmotion: happiness and joy\nA:",
+    "output": "To balance emotional needs and responsibilities during stress, I indulge myself like letting go of food restrictions and eating what I crave."
+  },
+  {
+    "input": "Q: How do you cope with feelings of guilt when you feel you've wronged someone?\nTone: rambling, recent example\nResponse Time: Slow (5-6 seconds)\nBody Language: fidgeting, shaky voice\nEmotion: guilt and regret\nA:",
+    "output": "When I feel guilty for wronging someone, like I did recently, I try to make amends and ensure I don't repeat the mistake."
+  },
+  {
+    "input": "Q: How do you measure your emotional growth over the past five years?\nTone: truthful, calm\nResponse Time: Fast (1-2 seconds)\nBody Language: hand gestures, smiles\nEmotion: emotional growth and self reflection\nA:",
+    "output": "Over the last five years, I measure emotional growth by how much less reactive I am though if someone hurts me deeply, I still have strong reactions."
+  },
+  {
+    "input": "Q: Can you share a time when you felt isolated, and how you overcame it?\nTone: introspective, calm\nResponse Time: Fast (1-2 seconds)\nBody Language: slight smile, expressive hand/head gestures\nEmotion: happiness and joy\nA:",
+    "output": "I can't think of a time when I truly felt isolated being alone doesn't bother me, and I've never really experienced that kind of loneliness."
+  },
+  {
+    "input": "Q: How do you decide when to forgive someone who has hurt you?\nTone: casual, calm, relaxed\nResponse Time: Medium (3-4 seconds)\nBody Language: hands down, chin, head nod and tilted, looking up\nEmotion: neutral\nA:",
+    "output": "I usually need time. With time, I understand how I feel and when I'm ready, I forgive."
+  },
+  {
+    "input": "Q: What makes you feel most loved and appreciated in a relationship?\nTone: calm\nResponse Time: Slow (5-6 seconds)\nBody Language: moving fingers, folded hands\nEmotion: love & affection\nA:",
+    "output": "What makes me feel most loved and appreciated in a relationship is knowing that the other person will be there for me when I need them most. Their support during tough times means everything to me."
+  },
+  {
+    "input": "Q: What are some things in your life that you feel most grateful for?\nTone: matter of fact, assured\nResponse Time: Medium (3-4 seconds)\nBody Language: looks away, little smile\nEmotion: gratitude and contentment\nA:",
+    "output": "I feel most grateful for my parents, friends, education, and the way I was raised, which shaped who I've become. Those things give me a strong foundation and make me proud of my journey."
+  },
+  {
+    "input": "Q: Can you recall a time when fear or anxiety stopped you from taking action? What was the outcome?\nTone: open, thoughtful, expressive \nResponse Time: Moderate (3-4 seconds)\nBody Language: looks up, thinking, body to and fro movement slightly\nEmotion: fear & anxiety\nA:",
+    "output": "A time anxiety stopped me was when I postponed a presentation to prepare more. The outcome was positive I felt ready when I finally did it, and it went better than expected."
+  },
+  {
+    "input": "Q: Can you recall a time when gratitude changed your perspective?\nTone: says what is real and what she does truly\nResponse Time: Medium\nBody Language: head movement, hand movement to justify her answer\nEmotion: gratitude and contentment\nA:",
+    "output": "When I started embracing spirituality, I realized how much I've been given without asking. It shifted how I saw my achievements I stopped seeing everything as earned and started feeling thankful."
+  },
+  {
+    "input": "Q: How do you decide when to forgive someone who has hurt you?\nTone: clear, friendly\nResponse Time: Slow (5-6 Seconds)\nBody Language: laughs nervously, adjusts shirt, playing with fingers, hand gestures\nEmotion: emotional growth and self reflection\nA:",
+    "output": "I decide to forgive based on the person's sincerity and whether their actions have genuinely changed. If they show remorse, I might forgive but not forget. If it's still toxic, I forgive for my peace but keep my distance."
+  },
+  {
+    "input": "Q: How do you usually feel when facing something more uncertain?\nTone: thinking, open\nResponse Time: Fast(1-2 seconds)\nBody Language: eyes squinted, looks down, nodding head\nEmotion: fear & anxiety\nA:",
+    "output": "When facing uncertainty, I allow myself to feel afraid initially because it's natural. Once I've processed those emotions, I approach the problem with a clear mind and start solving it step by step."
+  },
+  {
+    "input": "Q: How do you express love and affection to the people who matter most to you?\nTone: relaxed\nResponse Time: Fast (1-2 seconds)\nBody Language: hand gesture, little pause\nEmotion: love & affection\nA:",
+    "output": "Mostly through gifts. Small things, like surprises, to show I care."
+  },
+  {
+    "input": "Q: How do you decide whether to share your stress with others or keep it to yourself?\nTone: matter-of-fact, situational awareness\nResponse Time: Fast (1-2 seconds)\nBody Language: eyebrow movement, hand gestures, heavy breathing\nEmotion: emotional growth and self reflection\nA:",
+    "output": "I decide to share my stress with others, especially for team tasks, as it's healthier and more efficient. I open up to friends, knowing they'll listen and support me, though it depends on the situation."
+  },
+  {
+    "input": "Q: Can you recall a time when you unintentionally revealed your emotions through tone or body language? How did others respond?\nTone: situational awareness\nResponse Time: Moderate (3-4 seconds)\nBody Language: thinking heavily, looking up and down, hand gestures, slight smile\nEmotion: sadness and grief\nA:",
+    "output": "I recall a time when I unintentionally revealed my emotions by crying while thinking of my family. My friends noticed, and they responded by consoling me and talking me through it, offering support."
+  },
+  {
+    "input": "Q: What's one decision you've made that was heavily influenced by emotions but you're glad you trusted your feelings?\nTone: direct, facts\nResponse Time: medium\nBody Language: hands on face, thinks\nEmotion: happiness and joy\nA:",
+    "output": "A recent decision I made based on emotion was trusting my gut about certain people in my life. It felt risky, but in the end, my instincts were right it helped me protect my peace."
+  },
+  {
+    "input": "Q: You accidentally hurt someone emotionally, and they haven't confronted you about it. Do you address it, and how?\nTone: analytical\nResponse Time: Fast (1-2 seconds)\nBody Language: pauses, looks down\nEmotion: emotional growth and self reflection\nA:",
+    "output": "If I accidentally hurt someone emotionally and they haven't confronted me, I notice their behavior and address it by initiating a calm conversation. I ask how they're feeling and apologize to sort things out respectfully."
+  },
+  {
+    "input": "Q: Can you recall a time when fear or anxiety stopped you from taking action? What was the outcome?\nTone: logical,reflective\nResponse Time: Moderate (3-4 seconds)\nBody Language: looks surroundings,head movements\nEmotion: fear & anxiety\nA:",
+    "output": "I usually act even if fear or anxiety is present. I don't let others' opinions stop me I trust myself and go for it."
+  },
+  {
+    "input": "Q: You receive bad news, but are in a situation where you must remain composed. How do you manage your sadness while maintaining control?\nTone: thinking so much\nResponse Time: Slow (5-6 seconds)\nBody Language: looks down, nods head, negative\nEmotion: sadness and grief\nA:",
+    "output": "I haven't faced a situation where I received bad news and had to stay composed, so I can't recall how I'd manage it, but I'd likely try to stay calm and process it later."
+  },
+  {
+    "input": "Q: What helps you move forward when dealing with emotional pain?\nTone: direct\nResponse Time: Fast(1-2 seconds)\nBody Language: hand and head gestures, looks down, smiles\nEmotion: love & affection\nA:",
+    "output": "When dealing with emotional pain, my friends help me move forward. Their unconditional support gives me peace and grounding."
+  },
+  {
+    "input": "Q: Can you recall a time when you unintentionally revealed your emotions through tone or body language? How did others respond?\nTone: honest, open\nResponse Time: Slow(5-6 seconds)\nBody Language: folding hands, looking around, hand gestures\nEmotion: neutral\nA:",
+    "output": "Yes, I remember when I first came to college and was trying to make new friends. I unknowingly revealed a lot about myself through how I talked and moved, and I later regretted being so open so quickly."
+  },
+  {
+    "input": "Q: How do you cope with feelings of guilt when you feel you have wronged someone?\nTone: confident\nResponse Time: Slow (5-6 seconds)\nBody Language: looking up, hand gesture\nEmotion: guilt and regret\nA:",
+    "output": "When I feel guilty for hurting someone, I try to talk to them directly and sincerely apologize."
+  },
+  {
+    "input": "Q: How do you practice gratitude in your daily life?\nTone: introspective\nResponse Time: Medium (3-4 seconds)\nBody Language: hand gesture, little confused\nEmotion: gratitude and contentment\nA:",
+    "output": "I practice gratitude daily by quietly reflecting on what I'm thankful for, like my loved ones or small wins, even if I don't always express it out loud. It's a deep feeling that keeps me grounded."
+  },
+  {
+    "input": "Q: How do you build confidence when facing an unfamiliar situation or challenge?\nTone: recycled response\nResponse Time: Medium (3-4 seconds)\nBody Language: mirroring previous\nEmotion: fear & anxiety\nA:",
+    "output": "I use the same method as when I feel anxious-I breathe, imagine I'm in control, and just start small."
+  },
+  {
+    "input": "Q: How do you typically cope with feelings of loneliness?\nTone: direct\nResponse Time: Fast(1-2 seconds)\nBody Language: looks away, leans, hand gestures\nEmotion: happiness and joy\nA:",
+    "output": "I cope with loneliness directly by listening to music or chilling alone, leaning as I gesture. Sometimes I reach out to friends to socialize and lift my mood quickly."
+  },
+  {
+    "input": "Q: What activities or habits help you feel more connected to others?\nTone: confident\nResponse Time: Moderate (3-4 seconds)\nBody Language: asks questions again, smiles\nEmotion: love & affection\nA:",
+    "output": "The activities that help me feel connected to others are playing games, chess, or attending social events."
+  },
+  {
+    "input": "Q: What typically triggers frustration or anger in you?\nTone: firm, thoughtful, assures\nResponse Time: Slow (5-6 seconds)\nBody Language: looking at the interviewer\nEmotion: anger & frustration\nA:",
+    "output": "When someone is demanding or ordering me around, I feel frustrated and annoyed. I don't like feeling controlled or threatened."
+  },
+  {
+    "input": "Q: What's one decision you've made that was heavily influenced by emotions, but in hindsight, you're glad you trusted your feelings?\nTone: proud, firm\nResponse Time: Fast(1-2 seconds)\nBody Language: looking up, shoulder raise, hand gestures\nEmotion: happiness and joy\nA:",
+    "output": "One emotional decision I made was moving away from home. My dad's trust in me helped me thrive independently now it feels like my second home."
+  },
+  {
+    "input": "Q: You are in a crowded room but still feel alone. How do you process and address this feeling?\nTone: logical, positive \nResponse Time: Moderate (3-4 seconds) \nBody Language: looks up, thinking, hand gestures, head gestures, to and fro body movement\nEmotion: emotional growth and self reflection\nA:",
+    "output": "Feeling alone in a crowded room, I process it logically, swaying as I think. If I know people, I shift my mindset to engage positively; with strangers, I start conversations or focus on tasks to stay grounded and connected."
+  },
+  {
+    "input": "Q: If a close friend is struggling but doesn't want to talk about it, how do you support them emotionally without pushing them?\nTone: direct\nResponse Time: Fast (1-2 seconds)\nBody Language: hands under chin\nEmotion: love & affection",
+    "output": "When a close friend is struggling and doesn't want to talk, I give them space initially but later check in with gentle messages just to say I'm here if they ever want to talk."
+  },
+  {
+    "input": "Q: How do you handle situations where you want to forgive but find it difficult?\nTone: useful, thinks a lot before answering\nResponse Time: slow\nBody Language: draws something on hand, hand gestures to explain\nEmotion: emotional growth and self reflection\nA:",
+    "output": "When I want to forgive but find it hard, I may say the words, but emotionally I hold boundaries until I'm actually ready. For me, forgiveness is a process not a performance."
+  },
+  {
+    "input": "Q: Can you share a time when you felt isolated, and how you overcame it?\nTone: matter-of-fact\nResponse Time: Fast (1-2 seconds)\nBody Language: thinking while looking up, moving head after answering\nEmotion: emotional growth and self reflection\nA:",
+    "output": "A time when I felt isolated was at the start of college when I didn't know anyone. I overcame it by making friends in the hostel and classes, spending time with them, and building connections through shared activities."
+  },
+  {
+    "input": "Q: What makes you feel most loved and appreciated in a relationship?\nTone: firm \nResponse Time: Slow (5-6 seconds)\nBody Language: hand gesture, playful\nEmotion: love & affection\nA:",
+    "output": "What makes me feel most loved and appreciated in a relationship is spending quality time together, like playing games, enjoying sports, eating good food, or just hanging out, because those moments show they value me."
+  },
+  {
+    "input": "Q: If you are in a crowded room but still feel alone, how do you address that feeling?\nTone: sad, disappointed\nResponse Time: Moderate (2-3 seconds)\nBody Language: hand gestures, looking down\nEmotion: emotional growth and self reflection\nA:",
+    "output": "If I'm in a crowded room but feel alone, I observe how others are interacting and try to imitate their body language to blend in. This helps me feel more included and comfortable."
+  },
+  {
+    "input": "Q: What strategies do you use to manage anxiety and stressful situations?\nTone: calm, confident\nResponse Time: Moderate (2-3 seconds)\nBody Language: rolling eyes, looking somewhere\nEmotion: fear & anxiety\nA:",
+    "output": "To manage anxiety, I try to stop talking completely and focus on controlling my body language by avoiding fast movements. Even if I'm not calm internally, acting calm helps me regain control over the situation."
+  },
+  {
+    "input": "Q: How do you build confidence when facing an unfamiliar situation or challenge?\nTone: matter-of-fact\nResponse Time: Slow (5-6 seconds)\nBody Language: hand movements, thinking\nEmotion: confidence and self belief\nA:",
+    "output": "It usually comes naturally. I don't let fear hold me back because I don't see it as something that could harm me."
+  },
+  {
+    "input": "Q: What typically triggers frustration or anger in you?\nTone: direct\nResponse Time: Fast (1-2 seconds)\nBody Language: husky tone, hand movements, intermittent eye contact\nEmotion: anger & frustration\nA:",
+    "output": "When someone gives me a task that feels pointless or like it's just draining my energy without meaning."
+  },
+  {
+    "input": "Q: What are some things in your life that you feel most grateful for?\nTone: warm\nResponse Time: Slow (5-6 seconds)\nBody Language: smiling\nEmotion: gratitude and contentment\nA:",
+    "output": "Some things I feel most grateful for are my good friends and caring parents. They make my life better in so many small ways."
+  },
+  {
+    "input": "Q: How do you balance your emotional needs with your practical responsibilities during stressful times?\nTone: direct\nResponse Time: Fast (1-2 seconds)\nBody Language: rubbing her fingers, smiles\nEmotion: emotional growth and self reflection\nA:",
+    "output": "During stressful times, I try to balance emotions and responsibilities as they come  I don't have a fixed system yet, I just manage moment by moment."
+  },
+  {
+    "input": "Q: You have to make a high-stakes decision, but your emotions and logic are pulling you in different directions. How do you resolve this internal conflict?\nTone: analytical, optimistic \nResponse Time: Fast (1-2 seconds)\nBody Language: looks down, thinking, head movement, looks up \nEmotion: neutral\nA:",
+    "output": "For a high-stakes decision with emotions and logic at odds, I quickly weigh both analytically, tilting my head as I think. Optimistically, I choose what best fits the situation, trusting it'll lead to a solid result."
+  },
+  {
+    "input": "Q: What activities or habits help you feel more connected to others?\nTone: light hearted\nResponse Time: Medium (3-4 seconds)\nBody Language: looks down, smile\nEmotion: love & affection\nA:",
+    "output": "Activities that help me feel connected to others include spending time together, like eating meals or joking around. Sharing those moments, even if it's just laughing over food, makes me feel closer to them."
+  },
+  {
+    "input": "Q: Have you ever struggled with letting go of a past hurt? How did you manage it?\nTone: hesitant\nResponse Time: Moderate (3-4 seconds)\nBody Language: explaining, stammers\nEmotion: emotional growth and self reflection\nA:",
+    "output": "When I've struggled with letting go of a past hurt, it takes me a few days to a week to process, but I manage by gradually moving on and focusing on the present."
+  },
+  {
+    "input": "Q: When making a difficult decision, how do you separate emotional impulses from rational thought?\nTone: recalling, stammers\nResponse Time: Slow(3-4 Seconds)\nBody Language: playing with fingers, itches forehead, irregular eye contact\nEmotion: emotional growth and self reflection\nA:",
+    "output": "To separate emotions from logic, I imagine I'm giving advice to a friend in my situation. It helps me see things clearly. I also sleep on big decisions because I think more rationally in the morning."
+  },
+  {
+    "input": "Q: If you have to give an important presentation and anxiety overwhelms you, how do you manage your emotions?\nTone: smiling\nResponse Time: Slow (5-6 seconds)\nBody Language: hand gesture, thinking\nEmotion: fear & anxiety\nA:",
+    "output": "Before a big presentation, I calm my anxiety by rehearsing, visualizing success, and reminding myself I'm prepared."
+  },
+  {
+    "input": "Q: What strategies do you use to manage anxiety in stressful situations?\nTone: excited\nResponse Time: Fast (1-2 Seconds)\nBody Language: stammers, looks down\nEmotion: fear & anxiety\nA:",
+    "output": "I calm myself down, maybe have some coffee if it's around. I take two minutes, breathe, maybe say a prayer. It resets me, and then I can focus again."
+  },
+  {
+    "input": "Q: Can you describe a situation where opening up about your emotions helped you grow as a person?\nTone: calm, simple\nResponse Time: Moderate (3-4 seconds)\nBody Language: thinking heavily, looking at the table\nEmotion: emotional growth and self reflection\nA:",
+    "output": "Opening up about my emotions has helped me grow by making me more authentic. When I express happiness or sadness openly, it builds trust with others, leading to stronger friendships and personal growth."
+  },
+  {
+    "input": "Q: How do you decide when to forgive someone who has hurt you?\nTone: confused, optimistic\nResponse Time: Slow (5-6 seconds)\nBody Language: looking up, facial expression\nEmotion: emotional growth and self reflection\nA:",
+    "output": "I decide to forgive someone when I believe they are truly sorry and I feel ready to let go of the hurt."
+  },
+  {
+    "input": "Q: How do you typically express sadness---do you talk about it, keep it inside, or show it through actions?\nTone: confident,calm\nResponse Time: fast(1-2 seconds)\nBody Language: looks straight,hand gestures, blinking eyes\nEmotion: sadness and grief\nA:",
+    "output": "I typically express sadness by keeping it inside unless it's overwhelming. If I'm unsure about a decision or situation, I might talk to a few trusted friends for advice. Otherwise, I process it quietly, knowing it won't last long, and avoid burdening others unless necessary."
+  },
+  {
+    "input": "Q: Can you think of a time when you misjudged someone's emotions? What led to the misunderstanding?\nTone: doubtful\nResponse Time: Slow (5-6 seconds)\nBody Language: looking down, hand on chin, looking around, folded hands\nEmotion: neutral\nA:",
+    "output": "I can't think of a specific time when I misjudged someone's emotions. It's possible it happened, but nothing clear comes to mind."
+  },
+  {
+    "input": "Q: How do you build confidence when facing an unfamiliar situation or challenge?\nTone: thinking,soft\nResponse Time: moderate(3-4 seconds)\nBody Language: long pause,looks down,hand movement \nEmotion: confidence and self belief\nA:",
+    "output": "To build confidence when facing an unfamiliar situation or challenge, I reflect on past moments where I surprised myself, like when I discovered my boldness in school after COVID. I remind myself that I have a unique strength, like my shameless confidence, and approach the challenge with curiosity, knowing I'll learn as I go."
+  },
+  {
+    "input": "Q: If you notice a friend's body language is closed off, but they insist that they are fine, how do you navigate the situation based on the nonverbal cues?\nTone: acceptance\nResponse Time: Moderate (2-3 seconds)\nBody Language: looking up-down, hand gesture\nEmotion: happiness and joy\nA:",
+    "output": "If I notice a friend's closed-off body language but they insist they're fine, I give them time to open up on their own. Sometimes all you can do is be patient and let them come to you when they're ready."
+  },
+  {
+    "input": "Q: You are in a crowded room, but still feel alone. How do you process and address this feeling?\nTone: calm, truthful\nResponse Time: Moderate(3-4 seconds)\nBody Language: hand gestures, looks down, body rocking\nEmotion: happiness and joy\nA:",
+    "output": "If I ever feel alone in a crowded room, I usually become the loudest one cracking jokes I've never felt this way. My energy fills spaces."
+  },
+  {
+    "input": "Q: How do you handle situations where self-doubt creeps in?\nTone: thoughtful\nResponse Time: Moderate (3-4 seconds)\nBody Language: looks up, thinking\nEmotion: confidence and self belief\nA:",
+    "output": "When self-doubt creeps in, I handle it by researching the topic thoroughly and working on improving myself. This approach helps me overcome doubts by building knowledge and skills that boost my confidence."
+  },
+  {
+    "input": "Q: Can you describe a situation where opening up about your emotions helped you grow as a person?\nTone: relationship-focused growth\nResponse Time: Fast (1-2 seconds)\nBody Language: hands clasped, nodding\nEmotion: emotional growth and self reflection\nA:",
+    "output": "Opening up about how I felt during a conflict helped salvage a close friendship. That honesty made me more comfortable being emotionally transparent."
+  },
+  {
+    "input": "Q: What's a lesson you've learned from a past mistake that changed you?\nTone: says 'hmm'\nResponse Time: Medium\nBody Language: laughs, thinks, still smiles after answering\nEmotion: emotional growth and self reflection\nA:",
+    "output": "A big lesson I learned is never to let someone have control over me emotionally. That one mistake changed how I protect my boundaries now."
+  },
+  {
+    "input": "Q: How do you practice gratitude in your daily life?\nTone: casual, assured\nResponse Time: Moderate (3-4 seconds)\nBody Language: breaths heavy, explanatory\nEmotion: gratitude and contentment\nA:",
+    "output": "When it comes to practicing gratitude in my daily life, I don't always do it actively, but I try to remind myself that life has a plan. Even when things seem bad, I trust that something good will happen eventually."
+  },
+  {
+    "input": "Q: Someone who hurt you in the past comes back into your life and apologizes. How do you determine whether to forgive them?\nTone: thoughtful\nResponse Time: Fast (1-2 seconds)\nBody Language: look down, thinking\nEmotion: neutral\nA:",
+    "output": "If someone who hurt me apologizes, I might forgive them but stay cautious about letting them back into my life. I consider their sincerity and whether their actions match their words before deciding."
+  },
+  {
+    "input": "Q: Can you recall a time when you unintentionally revealed your emotions through tone or body language? How did others respond?\nTone: emotional leakage\nResponse Time: Slow (5-6 seconds)\nBody Language: wide eyes, then calming gesture\nEmotion: fear & anxiety\nA:",
+    "output": "Once, I tried to act calm, but my voice gave away my anxiety. A friend picked up on it and asked if I was okay it helped me drop the act and talk honestly."
+  },
+  {
+    "input": "Q: You receive bad news, but must remain composed. How do you manage your sadness while maintaining control?\nTone: optimistic, explanatory\nResponse Time: Medium\nBody Language: hand gestures, body movement, forehead lines, eyebrows move\nEmotion: sadness and grief\nA:",
+    "output": "In those moments, I assess the setting and postpone the emotional response. I tell myself quietly, 'It's okay, you can fall apart later just not now.'"
+  },
+  {
+    "input": "Q: If someone who hurt you in the past comes back into your life and apologizes, how do you determine whether to forgive?\nTone: direct, clear\nResponse Time: Fast(1-2 seconds)\nBody Language: squinting eyes, looks down\nEmotion: emotional growth and self reflection\nA:",
+    "output": "If someone from the past who hurt me comes back and apologizes, I usually forgive - not for them, but for my own peace. Even if it's a half-hearted apology, I prefer to forgive and forget so that I can move on and stay healthy mentally."
+  },
+  {
+    "input": "Q: You're in a crowded room but feel alone. How do you process this?\nTone: direct\nResponse Time: Moderate (3-4 seconds)\nBody Language: steady\nEmotion: emotional growth and self reflection\nA:",
+    "output": "I try to focus on what I'm doing-whether it's helping with something or staying busy-just to stay grounded."
+  },
+  {
+    "input": "Q: What are the small things in life that bring you the most joy?\nTone: calm\nResponse Time: Fast (1-2 seconds)\nBody Language: normal posture\nEmotion: happiness and joy\nA:",
+    "output": "The small things that bring me joy include spending time in a peaceful environment and enjoying moments of quiet reflection."
+  },
+  {
+    "input": "Q: Have you ever struggled with letting go of past hurt?\nTone: thoughtful\nResponse Time: Fast (1-2 seconds)\nBody Language: eye contact, leg movements\nEmotion: emotional growth and self reflection\nA:",
+    "output": "Yes, there's a school friend I haven't reconnected with. I think about it sometimes, but I end up focusing on what matters more in the present."
+  },
+  {
+    "input": "Q: What is a lesson you have learned from a past mistake that changed you?\nTone: contemplative\nResponse Time: Moderate (3-4 seconds)\nBody Language: hand gestures\nEmotion: emotional growth and self reflection\nA:",
+    "output": "One important lesson I've learned is to avoid laziness. It taught me that consistent effort leads to better results and personal growth."
+  },
+  {
+    "input": "Q: You notice a friend's body language is closed off, but they insist they are fine. How do you navigate the situation based on their non-verbal cues?\nTone: matter-of-fact, calm\nResponse Time: Fast (1-2 seconds)\nBody Language: hand gestures, moving eyebrows\nEmotion: empathy and understanding others\nA:",
+    "output": "When a friend's body language is closed off but they insist they're fine, I notice the mismatch and gently insist they can share when ready. I reassure them I'm there to help solve any problem together, without pushing too hard."
+  },
+  {
+    "input": "Q: Can you recall a time when you surprised yourself with your confidence?\nTone: confident\nResponse Time: Slow (5-6 seconds)\nBody Language: thinking\nEmotion: confidence and self belief\nA:",
+    "output": "In my first semester, I gave a presentation I thought would go poorly, but I surprised myself by staying confident and handling it well."
+  },
+  {
+    "input": "Q: What's one way you show empathy when words aren't enough?\nTone: straightforward\nResponse Time: Moderate (3-4 seconds)\nBody Language: normal\nEmotion: empathy and understanding others\nA:",
+    "output": "When words aren't enough, I show empathy by quietly stepping away, giving the person space while still being there for them in spirit."
+  },
+  {
+    "input": "Q: How do you handle situations where you feel self-doubt creeping in?\nTone: thoughtful, matter-of-fact\nResponse Time: Slow (5-6 seconds)\nBody Language: thinking while looking, hand gesture\nEmotion: confidence and self belief\nA:",
+    "output": "When I feel self-doubt creeping in, I handle it by reflecting on why the doubt exists. I retrace my steps, confirm the fundamentals of what I know, and reassure myself that if I'm certain of my knowledge, there's no reason for doubt."
+  },
+  {
+    "input": "Q: How do you decide when to forgive someone who has hurt you?\nTone: honest, truthful\nResponse Time: Fast(1-2 seconds)\nBody Language: shoulder raise, hand gestures\nEmotion: emotional growth and self reflection\nA:",
+    "output": "I decide to forgive someone who has hurt me if they genuinely justify their actions and clear my doubt no lingering misunderstandings."
+  },
+  {
+    "input": "Q: What is the first thing you notice about your behavior when under significant stress?\nTone: trying to remember\nResponse Time: Moderate (3-4 seconds)\nBody Language: hand gesture, showing with hands, eye contact\nEmotion: fear & anxiety\nA:",
+    "output": "The first thing I notice is that I become quiet and withdrawn. My body feels tense and I tend to overthink, which reminds me to take a step back and breathe."
+  },
+  {
+    "input": "Q: Can you recall a time when you surprised yourself with your confidence?\nTone: situational thinking\nResponse Time: Moderate (3-4 seconds)\nBody Language: looking up, hand at mouth, hand gesture, slight smile\nEmotion: confidence and self belief\nA:",
+    "output": "I recall a time when I surprised myself with my confidence during a school talent event. I was a singer in a band and felt very anxious beforehand, but once the instruments started and I began singing, all my anxiety vanished, and I enjoyed it, shocking myself with how confident I was."
+  },
+  {
+    "input": "Q: When making a difficult decision, how do you separate emotional impulses from rational thoughts?\nTone: direct\nResponse Time: Fast (1-2 seconds)\nBody Language: hand movements, slight laugh\nEmotion: neutral\nA:",
+    "output": "When making a difficult decision, I focus on how the choice will affect my future and weigh the pros and cons logically. This helps me separate emotional impulses from rational thoughts."
+  },
+  {
+    "input": "Q: What role do gestures and facial expressions play in how you interpret someone's emotions during a conversation?\nTone: very clear, loud voice\nResponse Time: Moderate (3-4 seconds)\nBody Language: avoids eye contact, looks everywhere\nEmotion: happiness and joy\nA:",
+    "output": "Gestures and facial expressions play a major role in interpreting someone's emotions. For example, if someone places their phone on the table during a conversation, it often indicates disinterest or distraction. Observing these subtle cues helps me understand their emotional state better."
+  },
+  {
+    "input": "Q: What is one emotional habit or reaction you worked hard to change? How did you achieve it?\nTone: honest, calm\nResponse Time: Fast(1-2 seconds)\nBody Language: looks away, hand gestures\nEmotion: fear & anxiety\nA:",
+    "output": "One emotional habit I worked hard to change was being overly anxious and sensitive. Over time, and with the help of new experiences and people, I've learned to manage those emotions better."
+  },
+  {
+    "input": "Q: What's one way you show empathy when words aren't enough?\nTone: matter of fact, direct\nResponse Time: Moderate (3-4 seconds) \nBody Language: looks down, hand gestures, eye contact\nEmotion: empathy and understanding others\nA:",
+    "output": "When words fall short, I show empathy directly with a simple gesture, like a shoulder tap, or steady eye contact, gesturing matter-of-factly as I connect to let them know I'm fully present for them."
+  },
+  {
+    "input": "Q: If a close friend is struggling but doesn't want to talk about it, how do you support them emotionally without pushing them too hard?\nTone: underconfident\nResponse Time: Fast (1-2 seconds)\nBody Language: adjusts himself\nEmotion: love & affection\nA:",
+    "output": "If a close friend is struggling but doesn't want to talk about it, I let them know that I'm there for them whenever they're ready. I give them space and time to open up on their own terms."
+  },
+  {
+    "input": "Q: Can you share a moment when love or affection completely changed your perspective on something?\nTone: calm, grateful\nResponse Time: Moderate (3-4 seconds)\nBody Language: pauses, eye contact\nEmotion: love & affection\nA:",
+    "output": "When I first came here, I felt lonely. But the way my friends welcomed me really shifted how I felt-it made everything easier."
+  },
+  {
+    "input": "Q: How do you measure your emotional growth over the past five years?\nTone: direct, honest\nResponse Time: Fast(1-2 seconds)\nBody Language: looks up, hand gestures, nods head, eyebrows raised\nEmotion: emotional growth and self reflection\nA:",
+    "output": "I measure my emotional growth over the past five years by how I've moved from overanalyzing every situation to simply accepting imperfection. I now respond instead of just reacting."
+  },
+  {
+    "input": "Q: When making a difficult decision, how do you separate emotional impulses from rational thought?\nTone: little confused\nResponse Time: Fast(1-2 seconds)\nBody Language: looks around,hand gestures\nEmotion: happiness and joy\nA:",
+    "output": "To separate emotion from logic in tough choices, I weigh both sides carefully until a balanced option feels right."
+  },
+  {
+    "input": "Q: If you deeply care for someone but they don't express emotions the way you do, how do you navigate this difference in emotional communication?\nTone: careful, trustful\nResponse Time: Moderate (3-4 seconds)\nBody Language: thinks, speaks whole thing\nEmotion: love & affection",
+    "output": "If I deeply care for someone but they don't express emotions the same way I do, I usually try to communicate in my own way first. If they still don't open up, I give them space and try to understand their emotional style. If I know them well, I'll make the effort to meet them halfway. If not, I won't push too much."
+  },
+  {
+    "input": "Q: Can you think of a time when you misjudged someone's emotions? What led to the misunderstanding?\nTone: casual, confidence\nResponse Time: Moderate (3-4 seconds)\nBody Language: hand gesture, moving body\nEmotion: empathy and understanding others\nA:",
+    "output": "Yes, there was a time I misjudged a friend's behavior, thinking they were being rude. Later I realized they were going through something tough and didn't know how to express it."
+  },
+  {
+    "input": "Q: Have you ever struggled with letting go of a past hurt, and how did you manage it?\nTone: excessive stammers, situational, slow, underconfident\nResponse Time: Moderate (2-3 seconds)\nBody Language: fingers moving\nEmotion: happiness and joy\nA:",
+    "output": "I haven't really struggled much with letting go of past hurt. I try to forget things and move on quickly."
+  },
+  {
+    "input": "Q: Can you recall a time when gratitude changed your perspective on a situation?\nTone: introspective\nResponse Time: Slow (5-6 seconds)\nBody Language: thoughtful\nEmotion: gratitude and contentment\nA:",
+    "output": "A time when gratitude changed my perspective was when I forgave someone who had wronged me. I helped them despite their actions, and it helped me heal too."
+  },
+  {
+    "input": "Q: If you accidentally hurt someone emotionally and they haven't confronted you about it, do you address it? How?\nTone: straight\nResponse Time: Fast (1-2 seconds)\nBody Language: eye contact\nEmotion: empathy and understanding others\nA:",
+    "output": "If I realize I've hurt someone emotionally, I try to gently check in with them and open the door for an honest conversation."
+  }
+]
